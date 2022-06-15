@@ -1,0 +1,1896 @@
+INFO 2022-06-15 11:18:27,839 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 11:18:27,840 ::  * Restarting with stat
+WARNING 2022-06-15 11:18:28,037 ::  * Debugger is active!
+INFO 2022-06-15 11:18:28,038 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 11:18:34,749 :: 127.0.0.1 - - [15/Jun/2022 11:18:34] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 11:18:54,287 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 11:18:54,288 ::  * Restarting with stat
+WARNING 2022-06-15 11:18:54,494 ::  * Debugger is active!
+INFO 2022-06-15 11:18:54,494 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 11:20:20,967 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 11:20:20,968 ::  * Restarting with stat
+WARNING 2022-06-15 11:20:21,161 ::  * Debugger is active!
+INFO 2022-06-15 11:20:21,161 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 11:20:36,534 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 11:20:36,535 ::  * Restarting with stat
+WARNING 2022-06-15 11:20:36,722 ::  * Debugger is active!
+INFO 2022-06-15 11:20:36,722 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 11:20:40,924 :: 127.0.0.1 - - [15/Jun/2022 11:20:40] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 11:21:19,458 :: 127.0.0.1 - - [15/Jun/2022 11:21:19] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 11:21:54,858 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 11:21:54,859 ::  * Restarting with stat
+WARNING 2022-06-15 11:21:55,058 ::  * Debugger is active!
+INFO 2022-06-15 11:21:55,058 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 11:22:10,211 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 11:22:10,212 ::  * Restarting with stat
+WARNING 2022-06-15 11:22:10,416 ::  * Debugger is active!
+INFO 2022-06-15 11:22:10,416 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 11:24:00,065 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 11:24:00,066 ::  * Restarting with stat
+WARNING 2022-06-15 11:24:00,355 ::  * Debugger is active!
+INFO 2022-06-15 11:24:00,355 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 11:24:04,284 :: 127.0.0.1 - - [15/Jun/2022 11:24:04] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 11:24:21,440 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 11:24:21,441 ::  * Restarting with stat
+WARNING 2022-06-15 11:24:21,704 ::  * Debugger is active!
+INFO 2022-06-15 11:24:21,705 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 11:26:32,753 ::  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2022-06-15 11:26:32,755 ::  * Restarting with stat
+WARNING 2022-06-15 11:26:32,993 ::  * Debugger is active!
+INFO 2022-06-15 11:26:32,994 ::  * Debugger PIN: 918-198-630
+INFO 2022-06-15 11:26:36,809 :: 127.0.0.1 - - [15/Jun/2022 11:26:36] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 11:26:41,330 :: 127.0.0.1 - - [15/Jun/2022 11:26:41] "[33mPOST / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 11:26:44,774 :: 127.0.0.1 - - [15/Jun/2022 11:26:44] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 11:27:13,709 :: 127.0.0.1 - - [15/Jun/2022 11:27:13] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 11:29:24,900 ::  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2022-06-15 11:29:24,901 ::  * Restarting with stat
+WARNING 2022-06-15 11:29:25,165 ::  * Debugger is active!
+INFO 2022-06-15 11:29:25,166 ::  * Debugger PIN: 918-198-630
+INFO 2022-06-15 11:29:28,565 :: 127.0.0.1 - - [15/Jun/2022 11:29:28] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 11:30:30,487 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 11:30:30,487 ::  * Restarting with stat
+WARNING 2022-06-15 11:30:30,738 ::  * Debugger is active!
+INFO 2022-06-15 11:30:30,739 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 11:30:34,219 :: 127.0.0.1 - - [15/Jun/2022 11:30:34] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 11:31:35,156 ::  * Detected change in '/var/www/html/EZWORKS/core/application.py', reloading
+INFO 2022-06-15 11:31:35,220 ::  * Restarting with stat
+WARNING 2022-06-15 11:31:35,413 ::  * Debugger is active!
+INFO 2022-06-15 11:31:35,413 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 11:31:39,439 ::  * Detected change in '/var/www/html/EZWORKS/core/__init__.py', reloading
+INFO 2022-06-15 11:31:39,485 ::  * Restarting with stat
+INFO 2022-06-15 11:31:43,654 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 11:31:43,655 ::  * Restarting with stat
+WARNING 2022-06-15 11:31:43,930 ::  * Debugger is active!
+INFO 2022-06-15 11:31:43,930 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 11:31:46,678 :: 127.0.0.1 - - [15/Jun/2022 11:31:46] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 11:31:51,993 ::  * Detected change in '/var/www/html/EZWORKS/core/__init__.py', reloading
+INFO 2022-06-15 11:31:52,061 ::  * Restarting with stat
+WARNING 2022-06-15 11:31:52,321 ::  * Debugger is active!
+INFO 2022-06-15 11:31:52,322 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 11:31:57,358 ::  * Detected change in '/var/www/html/EZWORKS/core/application.py', reloading
+INFO 2022-06-15 11:31:57,403 ::  * Restarting with stat
+WARNING 2022-06-15 11:31:57,660 ::  * Debugger is active!
+INFO 2022-06-15 11:31:57,660 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 11:39:53,249 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 11:39:53,249 ::  * Restarting with stat
+WARNING 2022-06-15 11:39:53,485 ::  * Debugger is active!
+INFO 2022-06-15 11:39:53,485 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 11:39:58,514 :: 127.0.0.1 - - [15/Jun/2022 11:39:58] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 11:41:04,913 ::  * Detected change in '/var/www/html/EZWORKS/core/application.py', reloading
+INFO 2022-06-15 11:41:04,970 ::  * Restarting with stat
+WARNING 2022-06-15 11:41:05,237 ::  * Debugger is active!
+INFO 2022-06-15 11:41:05,237 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 11:41:08,365 :: 127.0.0.1 - - [15/Jun/2022 11:41:08] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 11:41:09,588 :: 127.0.0.1 - - [15/Jun/2022 11:41:09] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 11:41:13,713 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 11:41:13,714 ::  * Restarting with stat
+WARNING 2022-06-15 11:41:13,947 ::  * Debugger is active!
+INFO 2022-06-15 11:41:13,948 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 11:41:16,718 :: 127.0.0.1 - - [15/Jun/2022 11:41:16] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 11:42:37,467 ::  * Detected change in '/var/www/html/EZWORKS/core/__init__.py', reloading
+INFO 2022-06-15 11:42:37,532 ::  * Restarting with stat
+INFO 2022-06-15 11:44:31,764 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 11:44:31,765 ::  * Restarting with stat
+WARNING 2022-06-15 11:44:32,017 ::  * Debugger is active!
+INFO 2022-06-15 11:44:32,017 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 11:44:35,586 :: 127.0.0.1 - - [15/Jun/2022 11:44:35] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 11:46:45,831 ::  * Detected change in '/var/www/html/EZWORKS/core/application.py', reloading
+INFO 2022-06-15 11:46:45,902 ::  * Restarting with stat
+WARNING 2022-06-15 11:46:46,196 ::  * Debugger is active!
+INFO 2022-06-15 11:46:46,196 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 11:46:49,412 :: 127.0.0.1 - - [15/Jun/2022 11:46:49] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 11:46:52,077 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 11:46:52,078 ::  * Restarting with stat
+WARNING 2022-06-15 11:46:52,256 ::  * Debugger is active!
+INFO 2022-06-15 11:46:52,256 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 11:46:55,150 :: 127.0.0.1 - - [15/Jun/2022 11:46:55] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 11:47:17,377 ::  * Detected change in '/var/www/html/EZWORKS/app.py', reloading
+INFO 2022-06-15 11:47:17,415 ::  * Restarting with stat
+WARNING 2022-06-15 11:47:17,658 ::  * Debugger is active!
+INFO 2022-06-15 11:47:17,659 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 11:47:22,333 :: 127.0.0.1 - - [15/Jun/2022 11:47:22] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 11:47:28,156 :: 127.0.0.1 - - [15/Jun/2022 11:47:28] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 11:47:36,113 :: 127.0.0.1 - - [15/Jun/2022 11:47:36] "[33mGET /dd HTTP/1.1[0m" 404 -
+INFO 2022-06-15 11:47:47,855 ::  * Detected change in '/var/www/html/EZWORKS/app.py', reloading
+INFO 2022-06-15 11:47:47,910 ::  * Restarting with stat
+WARNING 2022-06-15 11:47:48,095 ::  * Debugger is active!
+INFO 2022-06-15 11:47:48,096 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 11:47:50,109 ::  * Detected change in '/var/www/html/EZWORKS/core/application.py', reloading
+INFO 2022-06-15 11:47:50,170 ::  * Restarting with stat
+WARNING 2022-06-15 11:47:50,535 ::  * Debugger is active!
+INFO 2022-06-15 11:47:50,536 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:03:15,463 ::  * Detected change in '/var/www/html/EZWORKS/config/Routes.py', reloading
+INFO 2022-06-15 12:03:15,582 ::  * Restarting with stat
+WARNING 2022-06-15 12:03:15,977 ::  * Debugger is active!
+INFO 2022-06-15 12:03:15,978 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:03:18,223 :: 127.0.0.1 - - [15/Jun/2022 12:03:18] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:03:34,108 ::  * Detected change in '/var/www/html/EZWORKS/config/Routes.py', reloading
+INFO 2022-06-15 12:03:34,223 ::  * Restarting with stat
+WARNING 2022-06-15 12:03:34,605 ::  * Debugger is active!
+INFO 2022-06-15 12:03:34,606 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:03:37,873 :: 127.0.0.1 - - [15/Jun/2022 12:03:37] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:04:25,947 ::  * Detected change in '/var/www/html/EZWORKS/config/Routes.py', reloading
+INFO 2022-06-15 12:04:26,086 ::  * Restarting with stat
+WARNING 2022-06-15 12:04:26,541 ::  * Debugger is active!
+INFO 2022-06-15 12:04:26,542 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:06:43,848 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 12:06:43,849 ::  * Restarting with stat
+WARNING 2022-06-15 12:06:44,238 ::  * Debugger is active!
+INFO 2022-06-15 12:06:44,239 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:06:47,082 :: 127.0.0.1 - - [15/Jun/2022 12:06:47] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:07:35,590 ::  * Detected change in '/var/www/html/EZWORKS/config/Routes.py', reloading
+INFO 2022-06-15 12:07:35,684 ::  * Restarting with stat
+WARNING 2022-06-15 12:07:36,062 ::  * Debugger is active!
+INFO 2022-06-15 12:07:36,063 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:07:38,896 :: 127.0.0.1 - - [15/Jun/2022 12:07:38] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:07:47,150 ::  * Detected change in '/var/www/html/EZWORKS/config/Routes.py', reloading
+INFO 2022-06-15 12:07:47,294 ::  * Restarting with stat
+WARNING 2022-06-15 12:07:47,721 ::  * Debugger is active!
+INFO 2022-06-15 12:07:47,722 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:08:07,724 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 12:08:07,725 ::  * Restarting with stat
+WARNING 2022-06-15 12:08:08,020 ::  * Debugger is active!
+INFO 2022-06-15 12:08:08,021 ::  * Debugger PIN: 538-625-238
+INFO 2022-06-15 12:08:12,044 :: 127.0.0.1 - - [15/Jun/2022 12:08:12] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:08:16,579 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 12:08:16,580 ::  * Restarting with stat
+WARNING 2022-06-15 12:08:16,882 ::  * Debugger is active!
+INFO 2022-06-15 12:08:16,884 ::  * Debugger PIN: 538-625-238
+INFO 2022-06-15 12:10:16,294 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 12:10:16,297 ::  * Restarting with stat
+WARNING 2022-06-15 12:10:16,575 ::  * Debugger is active!
+INFO 2022-06-15 12:10:16,578 ::  * Debugger PIN: 538-625-238
+INFO 2022-06-15 12:10:21,839 :: 127.0.0.1 - - [15/Jun/2022 12:10:21] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:10:28,771 ::  * Detected change in '/var/www/html/EZWORKS/config/Routes.py', reloading
+INFO 2022-06-15 12:10:28,871 ::  * Restarting with stat
+WARNING 2022-06-15 12:10:29,175 ::  * Debugger is active!
+INFO 2022-06-15 12:10:29,177 ::  * Debugger PIN: 538-625-238
+INFO 2022-06-15 12:10:38,340 ::  * Detected change in '/var/www/html/EZWORKS/core/application.py', reloading
+INFO 2022-06-15 12:10:38,444 ::  * Restarting with stat
+WARNING 2022-06-15 12:10:38,808 ::  * Debugger is active!
+INFO 2022-06-15 12:10:38,810 ::  * Debugger PIN: 538-625-238
+INFO 2022-06-15 12:10:42,919 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 12:10:42,920 ::  * Restarting with stat
+WARNING 2022-06-15 12:10:43,206 ::  * Debugger is active!
+INFO 2022-06-15 12:10:43,207 ::  * Debugger PIN: 538-625-238
+INFO 2022-06-15 12:10:45,789 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 12:10:45,790 ::  * Restarting with stat
+WARNING 2022-06-15 12:10:46,068 ::  * Debugger is active!
+INFO 2022-06-15 12:10:46,069 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:10:53,771 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 12:10:53,773 ::  * Restarting with stat
+WARNING 2022-06-15 12:10:54,063 ::  * Debugger is active!
+INFO 2022-06-15 12:10:54,064 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:10:58,690 :: 127.0.0.1 - - [15/Jun/2022 12:10:58] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:11:06,513 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 12:11:06,514 ::  * Restarting with stat
+WARNING 2022-06-15 12:11:06,879 ::  * Debugger is active!
+INFO 2022-06-15 12:11:06,880 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:11:18,000 :: 127.0.0.1 - - [15/Jun/2022 12:11:17] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:11:28,032 ::  * Detected change in '/var/www/html/EZWORKS/config/Routes.py', reloading
+INFO 2022-06-15 12:11:28,131 ::  * Restarting with stat
+WARNING 2022-06-15 12:11:28,487 ::  * Debugger is active!
+INFO 2022-06-15 12:11:28,488 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:21:29,196 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 12:21:29,197 ::  * Restarting with stat
+WARNING 2022-06-15 12:21:29,514 ::  * Debugger is active!
+INFO 2022-06-15 12:21:29,515 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:22:13,357 :: 127.0.0.1 - - [15/Jun/2022 12:22:13] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:25:14,809 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 12:25:14,811 ::  * Restarting with stat
+WARNING 2022-06-15 12:25:15,192 ::  * Debugger is active!
+INFO 2022-06-15 12:25:15,193 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:25:16,504 :: 127.0.0.1 - - [15/Jun/2022 12:25:16] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:25:44,387 ::  * Detected change in '/var/www/html/EZWORKS/config/Routes.py', reloading
+INFO 2022-06-15 12:25:44,509 ::  * Restarting with stat
+WARNING 2022-06-15 12:25:44,807 ::  * Debugger is active!
+INFO 2022-06-15 12:25:44,808 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:25:48,748 :: 127.0.0.1 - - [15/Jun/2022 12:25:48] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:26:46,104 ::  * Detected change in '/var/www/html/EZWORKS/app.py', reloading
+INFO 2022-06-15 12:26:46,203 ::  * Restarting with stat
+WARNING 2022-06-15 12:26:46,473 ::  * Debugger is active!
+INFO 2022-06-15 12:26:46,474 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:26:51,087 :: 127.0.0.1 - - [15/Jun/2022 12:26:51] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:26:54,200 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 12:26:54,202 ::  * Restarting with stat
+WARNING 2022-06-15 12:26:54,463 ::  * Debugger is active!
+INFO 2022-06-15 12:26:54,464 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:26:57,707 :: 127.0.0.1 - - [15/Jun/2022 12:26:57] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:29:14,127 ::  * Detected change in '/var/www/html/EZWORKS/core/__init__.py', reloading
+INFO 2022-06-15 12:29:14,204 ::  * Restarting with stat
+WARNING 2022-06-15 12:29:14,457 ::  * Debugger is active!
+INFO 2022-06-15 12:29:14,458 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:29:18,392 :: 127.0.0.1 - - [15/Jun/2022 12:29:18] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:29:22,706 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 12:29:22,707 ::  * Restarting with stat
+WARNING 2022-06-15 12:29:22,968 ::  * Debugger is active!
+INFO 2022-06-15 12:29:22,969 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:29:25,182 :: 127.0.0.1 - - [15/Jun/2022 12:29:25] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:29:52,476 ::  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2022-06-15 12:29:52,479 ::  * Restarting with stat
+WARNING 2022-06-15 12:29:52,849 ::  * Debugger is active!
+INFO 2022-06-15 12:29:52,850 ::  * Debugger PIN: 123-699-110
+INFO 2022-06-15 12:29:56,498 :: 127.0.0.1 - - [15/Jun/2022 12:29:56] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO 2022-06-15 12:30:21,250 ::  * Detected change in '/var/www/html/EZWORKS/core/__init__.py', reloading
+INFO 2022-06-15 12:30:21,348 ::  * Restarting with stat
+WARNING 2022-06-15 12:30:21,884 ::  * Debugger is active!
+INFO 2022-06-15 12:30:21,885 ::  * Debugger PIN: 123-699-110
+INFO 2022-06-15 12:30:23,934 :: 127.0.0.1 - - [15/Jun/2022 12:30:23] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO 2022-06-15 12:31:26,782 ::  * Detected change in '/var/www/html/EZWORKS/config/config.py', reloading
+INFO 2022-06-15 12:31:26,870 ::  * Restarting with stat
+WARNING 2022-06-15 12:31:27,335 ::  * Debugger is active!
+INFO 2022-06-15 12:31:27,336 ::  * Debugger PIN: 123-699-110
+INFO 2022-06-15 12:31:30,285 :: 127.0.0.1 - - [15/Jun/2022 12:31:30] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO 2022-06-15 12:35:15,180 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 12:35:15,182 ::  * Restarting with stat
+WARNING 2022-06-15 12:35:15,415 ::  * Debugger is active!
+INFO 2022-06-15 12:35:15,416 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:35:44,898 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 12:35:44,900 ::  * Restarting with stat
+WARNING 2022-06-15 12:35:45,163 ::  * Debugger is active!
+INFO 2022-06-15 12:35:45,164 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:35:49,701 :: 127.0.0.1 - - [15/Jun/2022 12:35:49] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:40:12,726 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 12:40:12,727 ::  * Restarting with stat
+WARNING 2022-06-15 12:40:13,023 ::  * Debugger is active!
+INFO 2022-06-15 12:40:13,024 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:40:25,060 :: 127.0.0.1 - - [15/Jun/2022 12:40:25] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:40:51,216 ::  * Detected change in '/var/www/html/EZWORKS/core/__init__.py', reloading
+INFO 2022-06-15 12:40:51,284 ::  * Restarting with stat
+WARNING 2022-06-15 12:40:51,532 ::  * Debugger is active!
+INFO 2022-06-15 12:40:51,533 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:40:53,914 :: 127.0.0.1 - - [15/Jun/2022 12:40:53] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:40:58,654 :: 127.0.0.1 - - [15/Jun/2022 12:40:58] "[33mPOST / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:41:32,515 ::  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2022-06-15 12:41:32,518 ::  * Restarting with stat
+WARNING 2022-06-15 12:41:32,874 ::  * Debugger is active!
+INFO 2022-06-15 12:41:32,875 ::  * Debugger PIN: 123-699-110
+INFO 2022-06-15 12:41:36,581 :: 127.0.0.1 - - [15/Jun/2022 12:41:36] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO 2022-06-15 12:42:23,574 ::  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2022-06-15 12:42:23,577 ::  * Restarting with stat
+WARNING 2022-06-15 12:42:23,982 ::  * Debugger is active!
+INFO 2022-06-15 12:42:23,983 ::  * Debugger PIN: 123-699-110
+INFO 2022-06-15 12:42:26,674 :: 127.0.0.1 - - [15/Jun/2022 12:42:26] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO 2022-06-15 12:44:49,130 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 12:44:49,131 ::  * Restarting with stat
+WARNING 2022-06-15 12:44:49,417 ::  * Debugger is active!
+INFO 2022-06-15 12:44:49,418 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:44:53,301 :: 127.0.0.1 - - [15/Jun/2022 12:44:53] "[33mPOST / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:45:05,504 ::  * Detected change in '/var/www/html/EZWORKS/core/__init__.py', reloading
+INFO 2022-06-15 12:45:05,569 ::  * Restarting with stat
+WARNING 2022-06-15 12:45:05,846 ::  * Debugger is active!
+INFO 2022-06-15 12:45:05,847 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:45:08,871 ::  * Detected change in '/var/www/html/EZWORKS/app.py', reloading
+INFO 2022-06-15 12:45:08,981 ::  * Restarting with stat
+WARNING 2022-06-15 12:45:09,311 ::  * Debugger is active!
+INFO 2022-06-15 12:45:09,312 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:45:11,150 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 12:45:11,152 ::  * Restarting with stat
+WARNING 2022-06-15 12:45:11,420 ::  * Debugger is active!
+INFO 2022-06-15 12:45:11,420 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:45:14,494 :: 127.0.0.1 - - [15/Jun/2022 12:45:14] "[33mPOST / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:45:19,467 ::  * Detected change in '/var/www/html/EZWORKS/app.py', reloading
+INFO 2022-06-15 12:45:19,530 ::  * Restarting with stat
+WARNING 2022-06-15 12:45:19,819 ::  * Debugger is active!
+INFO 2022-06-15 12:45:19,820 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:48:52,815 ::  * Detected change in '/var/www/html/EZWORKS/core/__init__.py', reloading
+INFO 2022-06-15 12:48:52,901 ::  * Restarting with stat
+WARNING 2022-06-15 12:48:53,172 ::  * Debugger is active!
+INFO 2022-06-15 12:48:53,173 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:48:55,397 :: 127.0.0.1 - - [15/Jun/2022 12:48:55] "[33mPOST / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:49:01,227 ::  * Detected change in '/var/www/html/EZWORKS/config/Routes.py', reloading
+INFO 2022-06-15 12:49:01,307 ::  * Restarting with stat
+WARNING 2022-06-15 12:49:01,659 ::  * Debugger is active!
+INFO 2022-06-15 12:49:01,660 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:49:03,115 :: 127.0.0.1 - - [15/Jun/2022 12:49:03] "[33mPOST / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:49:10,197 :: 127.0.0.1 - - [15/Jun/2022 12:49:10] "[33mPOST / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:49:15,093 :: 127.0.0.1 - - [15/Jun/2022 12:49:15] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:49:40,852 ::  * Detected change in '/var/www/html/EZWORKS/core/__init__.py', reloading
+INFO 2022-06-15 12:49:40,937 ::  * Restarting with stat
+WARNING 2022-06-15 12:49:41,259 ::  * Debugger is active!
+INFO 2022-06-15 12:49:41,260 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:49:46,295 ::  * Detected change in '/var/www/html/EZWORKS/app.py', reloading
+INFO 2022-06-15 12:49:46,361 ::  * Restarting with stat
+WARNING 2022-06-15 12:49:46,651 ::  * Debugger is active!
+INFO 2022-06-15 12:49:46,651 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:49:51,685 ::  * Detected change in '/var/www/html/EZWORKS/app.py', reloading
+INFO 2022-06-15 12:49:51,763 ::  * Restarting with stat
+WARNING 2022-06-15 12:49:52,095 ::  * Debugger is active!
+INFO 2022-06-15 12:49:52,095 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:49:53,789 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 12:49:53,791 ::  * Restarting with stat
+WARNING 2022-06-15 12:49:54,071 ::  * Debugger is active!
+INFO 2022-06-15 12:49:54,072 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:49:57,687 :: 127.0.0.1 - - [15/Jun/2022 12:49:57] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:51:27,280 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 12:51:27,282 ::  * Restarting with stat
+WARNING 2022-06-15 12:51:27,561 ::  * Debugger is active!
+INFO 2022-06-15 12:51:27,562 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:51:30,251 :: 127.0.0.1 - - [15/Jun/2022 12:51:30] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:53:02,719 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 12:53:02,720 ::  * Restarting with stat
+WARNING 2022-06-15 12:53:03,004 ::  * Debugger is active!
+INFO 2022-06-15 12:53:03,005 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:53:07,329 :: 127.0.0.1 - - [15/Jun/2022 12:53:07] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:56:40,135 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 12:56:40,137 ::  * Restarting with stat
+WARNING 2022-06-15 12:56:40,403 ::  * Debugger is active!
+INFO 2022-06-15 12:56:40,403 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 12:56:42,896 :: 127.0.0.1 - - [15/Jun/2022 12:56:42] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 12:58:21,901 ::  * Detected change in '/var/www/html/EZWORKS/core/__init__.py', reloading
+INFO 2022-06-15 12:58:21,976 ::  * Restarting with stat
+WARNING 2022-06-15 12:58:22,282 ::  * Debugger is active!
+INFO 2022-06-15 12:58:22,282 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:01:39,221 ::  * Detected change in '/var/www/html/EZWORKS/app.py', reloading
+INFO 2022-06-15 13:01:39,325 ::  * Restarting with stat
+WARNING 2022-06-15 13:01:39,670 ::  * Debugger is active!
+INFO 2022-06-15 13:01:39,671 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:01:46,510 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 13:01:46,512 ::  * Restarting with stat
+WARNING 2022-06-15 13:01:46,784 ::  * Debugger is active!
+INFO 2022-06-15 13:01:46,784 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:01:49,142 :: 127.0.0.1 - - [15/Jun/2022 13:01:49] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 13:02:17,944 ::  * Detected change in '/var/www/html/EZWORKS/app.py', reloading
+INFO 2022-06-15 13:02:18,070 ::  * Restarting with stat
+WARNING 2022-06-15 13:02:18,422 ::  * Debugger is active!
+INFO 2022-06-15 13:02:18,423 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:02:21,130 :: 127.0.0.1 - - [15/Jun/2022 13:02:21] "[33mGET / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 13:02:27,479 ::  * Detected change in '/var/www/html/EZWORKS/config/Routes.py', reloading
+INFO 2022-06-15 13:02:27,578 ::  * Restarting with stat
+WARNING 2022-06-15 13:02:27,872 ::  * Debugger is active!
+INFO 2022-06-15 13:02:27,873 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:02:29,287 :: 127.0.0.1 - - [15/Jun/2022 13:02:29] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO 2022-06-15 13:02:38,939 ::  * Detected change in '/var/www/html/EZWORKS/config/Routes.py', reloading
+INFO 2022-06-15 13:02:39,021 ::  * Restarting with stat
+WARNING 2022-06-15 13:02:39,380 ::  * Debugger is active!
+INFO 2022-06-15 13:02:39,381 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:02:40,515 :: 127.0.0.1 - - [15/Jun/2022 13:02:40] "GET / HTTP/1.1" 200 -
+INFO 2022-06-15 13:02:52,452 ::  * Detected change in '/var/www/html/EZWORKS/config/Routes.py', reloading
+INFO 2022-06-15 13:02:52,535 ::  * Restarting with stat
+WARNING 2022-06-15 13:02:52,931 ::  * Debugger is active!
+INFO 2022-06-15 13:02:52,932 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:02:55,018 :: 127.0.0.1 - - [15/Jun/2022 13:02:55] "[31m[1mGET / HTTP/1.1[0m" 405 -
+INFO 2022-06-15 13:02:58,858 :: 127.0.0.1 - - [15/Jun/2022 13:02:58] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO 2022-06-15 13:04:53,715 ::  * Detected change in '/var/www/html/EZWORKS/config/Routes.py', reloading
+INFO 2022-06-15 13:04:53,862 ::  * Restarting with stat
+WARNING 2022-06-15 13:04:54,265 ::  * Debugger is active!
+INFO 2022-06-15 13:04:54,265 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:04:55,656 :: 127.0.0.1 - - [15/Jun/2022 13:04:55] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:05:21,451 ::  * Detected change in '/var/www/html/EZWORKS/config/Routes.py', reloading
+INFO 2022-06-15 13:05:21,543 ::  * Restarting with stat
+WARNING 2022-06-15 13:05:21,912 ::  * Debugger is active!
+INFO 2022-06-15 13:05:21,913 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:05:42,069 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:05:42,242 ::  * Restarting with stat
+WARNING 2022-06-15 13:05:42,858 ::  * Debugger is active!
+INFO 2022-06-15 13:05:42,859 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:05:44,338 :: 127.0.0.1 - - [15/Jun/2022 13:05:44] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:06:03,011 ::  * Detected change in '/var/www/html/EZWORKS/config/Routes.py', reloading
+INFO 2022-06-15 13:06:03,149 ::  * Restarting with stat
+WARNING 2022-06-15 13:06:03,566 ::  * Debugger is active!
+INFO 2022-06-15 13:06:03,566 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:06:04,700 :: 127.0.0.1 - - [15/Jun/2022 13:06:04] "[33mPOST / HTTP/1.1[0m" 404 -
+INFO 2022-06-15 13:06:10,251 :: 127.0.0.1 - - [15/Jun/2022 13:06:10] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:06:29,980 :: 127.0.0.1 - - [15/Jun/2022 13:06:29] "[31m[1mPOST /login?email_id=niteshmangla1992@gmail.com HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:06:50,894 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:06:51,000 ::  * Restarting with stat
+WARNING 2022-06-15 13:06:51,532 ::  * Debugger is active!
+INFO 2022-06-15 13:06:51,533 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:06:52,916 :: 127.0.0.1 - - [15/Jun/2022 13:06:52] "[31m[1mPOST /login?email_id=niteshmangla1992@gmail.com HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:07:10,676 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:07:10,840 ::  * Restarting with stat
+WARNING 2022-06-15 13:07:11,407 ::  * Debugger is active!
+INFO 2022-06-15 13:07:11,408 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:07:12,802 :: 127.0.0.1 - - [15/Jun/2022 13:07:12] "[31m[1mPOST /login?email_id=niteshmangla1992@gmail.com HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:07:59,737 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:07:59,881 ::  * Restarting with stat
+WARNING 2022-06-15 13:08:00,515 ::  * Debugger is active!
+INFO 2022-06-15 13:08:00,516 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:09:09,995 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:09:10,128 ::  * Restarting with stat
+WARNING 2022-06-15 13:09:10,607 ::  * Debugger is active!
+INFO 2022-06-15 13:09:10,608 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:10:39,230 ::  * Detected change in '/var/www/html/EZWORKS/Models/UserModel.py', reloading
+INFO 2022-06-15 13:10:39,366 ::  * Restarting with stat
+WARNING 2022-06-15 13:10:39,837 ::  * Debugger is active!
+INFO 2022-06-15 13:10:39,838 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:10:56,961 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:10:57,127 ::  * Restarting with stat
+WARNING 2022-06-15 13:10:57,823 ::  * Debugger is active!
+INFO 2022-06-15 13:10:57,824 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:12:41,762 :: 127.0.0.1 - - [15/Jun/2022 13:12:41] "[31m[1mPOST /login?email_id=niteshmangla1992@gmail.com HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:12:51,448 :: 127.0.0.1 - - [15/Jun/2022 13:12:51] "[31m[1mPOST /login?email_id=niteshmangla1992@gmail.com HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:13:13,755 ::  * Detected change in '/var/www/html/EZWORKS/Models/UserModel.py', reloading
+INFO 2022-06-15 13:13:13,886 ::  * Restarting with stat
+WARNING 2022-06-15 13:13:14,283 ::  * Debugger is active!
+INFO 2022-06-15 13:13:14,284 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:13:18,325 ::  * Detected change in '/var/www/html/EZWORKS/Models/UserModel.py', reloading
+INFO 2022-06-15 13:13:18,422 ::  * Restarting with stat
+WARNING 2022-06-15 13:13:19,009 ::  * Debugger is active!
+INFO 2022-06-15 13:13:19,010 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:13:40,169 ::  * Detected change in '/var/www/html/EZWORKS/Models/UserModel.py', reloading
+INFO 2022-06-15 13:13:40,282 ::  * Restarting with stat
+WARNING 2022-06-15 13:13:40,770 ::  * Debugger is active!
+INFO 2022-06-15 13:13:40,771 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:13:48,841 ::  * Detected change in '/var/www/html/EZWORKS/Models/UserModel.py', reloading
+INFO 2022-06-15 13:13:48,970 ::  * Restarting with stat
+WARNING 2022-06-15 13:13:49,405 ::  * Debugger is active!
+INFO 2022-06-15 13:13:49,406 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:13:51,177 :: 127.0.0.1 - - [15/Jun/2022 13:13:51] "[31m[1mPOST /login?email_id=niteshmangla1992@gmail.com HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:14:01,492 :: 127.0.0.1 - - [15/Jun/2022 13:14:01] "[31m[1mPOST /login?email_id=niteshmangla1992@gmail.com HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:14:10,560 ::  * Detected change in '/var/www/html/EZWORKS/Models/UserModel.py', reloading
+INFO 2022-06-15 13:14:10,661 ::  * Restarting with stat
+WARNING 2022-06-15 13:14:11,053 ::  * Debugger is active!
+INFO 2022-06-15 13:14:11,054 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:14:35,233 ::  * Detected change in '/var/www/html/EZWORKS/Models/UserModel.py', reloading
+INFO 2022-06-15 13:14:35,338 ::  * Restarting with stat
+WARNING 2022-06-15 13:14:35,831 ::  * Debugger is active!
+INFO 2022-06-15 13:14:35,832 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:14:38,131 :: 127.0.0.1 - - [15/Jun/2022 13:14:38] "[31m[1mPOST /login?email_id=niteshmangla1992@gmail.com HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:14:54,442 :: 127.0.0.1 - - [15/Jun/2022 13:14:54] "[31m[1mPOST /login?email_id=niteshmangla1992@gmail.com HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:15:05,735 :: 127.0.0.1 - - [15/Jun/2022 13:15:05] "[31m[1mPOST /login?email_id=niteshmangla1992@gmail.com HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:15:16,194 :: 127.0.0.1 - - [15/Jun/2022 13:15:16] "[31m[1mPOST /login?email_id=niteshmangla1992@gmail.com HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:15:51,350 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:15:51,446 ::  * Restarting with stat
+WARNING 2022-06-15 13:15:51,834 ::  * Debugger is active!
+INFO 2022-06-15 13:15:51,835 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:16:08,330 :: 127.0.0.1 - - [15/Jun/2022 13:16:08] "[31m[1mPOST /login?email_id=niteshmangla1992@gmail.com HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:16:27,075 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:16:27,234 ::  * Restarting with stat
+WARNING 2022-06-15 13:16:27,780 ::  * Debugger is active!
+INFO 2022-06-15 13:16:27,781 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:16:29,581 :: 127.0.0.1 - - [15/Jun/2022 13:16:29] "[31m[1mPOST /login?email_id=niteshmangla1992@gmail.com HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:16:47,934 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:16:48,032 ::  * Restarting with stat
+WARNING 2022-06-15 13:16:48,424 ::  * Debugger is active!
+INFO 2022-06-15 13:16:48,426 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:17:04,834 :: 127.0.0.1 - - [15/Jun/2022 13:17:04] "POST /login?email_id=niteshmangla1992@gmail.com HTTP/1.1" 200 -
+INFO 2022-06-15 13:25:26,874 ::  * Detected change in '/var/www/html/EZWORKS/core/BaseController.py', reloading
+INFO 2022-06-15 13:25:27,011 ::  * Restarting with stat
+WARNING 2022-06-15 13:25:27,600 ::  * Debugger is active!
+INFO 2022-06-15 13:25:27,602 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:25:34,665 ::  * Detected change in '/var/www/html/EZWORKS/core/BaseController.py', reloading
+INFO 2022-06-15 13:25:34,771 ::  * Restarting with stat
+WARNING 2022-06-15 13:25:35,151 ::  * Debugger is active!
+INFO 2022-06-15 13:25:35,152 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:26:56,112 :: 127.0.0.1 - - [15/Jun/2022 13:26:56] "POST /login?email_id=niteshmangla1992@gmail.com HTTP/1.1" 200 -
+INFO 2022-06-15 13:28:41,391 ::  * Detected change in '/var/www/html/EZWORKS/Models/UserModel.py', reloading
+INFO 2022-06-15 13:28:41,484 ::  * Restarting with stat
+WARNING 2022-06-15 13:28:42,046 ::  * Debugger is active!
+INFO 2022-06-15 13:28:42,046 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:28:59,177 ::  * Detected change in '/var/www/html/EZWORKS/Models/UserModel.py', reloading
+INFO 2022-06-15 13:28:59,273 ::  * Restarting with stat
+WARNING 2022-06-15 13:28:59,664 ::  * Debugger is active!
+INFO 2022-06-15 13:28:59,664 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:29:23,819 :: 127.0.0.1 - - [15/Jun/2022 13:29:23] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:29:54,708 :: 127.0.0.1 - - [15/Jun/2022 13:29:54] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:30:06,995 :: 127.0.0.1 - - [15/Jun/2022 13:30:06] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:30:18,808 :: 127.0.0.1 - - [15/Jun/2022 13:30:18] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:30:26,517 :: 127.0.0.1 - - [15/Jun/2022 13:30:26] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:30:33,873 :: 127.0.0.1 - - [15/Jun/2022 13:30:33] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:30:55,133 :: 127.0.0.1 - - [15/Jun/2022 13:30:55] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:31:19,779 :: 127.0.0.1 - - [15/Jun/2022 13:31:19] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:31:33,440 :: 127.0.0.1 - - [15/Jun/2022 13:31:33] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:32:03,849 ::  * Detected change in '/var/www/html/EZWORKS/Models/UserModel.py', reloading
+INFO 2022-06-15 13:32:03,962 ::  * Restarting with stat
+WARNING 2022-06-15 13:32:04,337 ::  * Debugger is active!
+INFO 2022-06-15 13:32:04,337 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:32:06,390 :: 127.0.0.1 - - [15/Jun/2022 13:32:06] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:32:35,551 ::  * Detected change in '/var/www/html/EZWORKS/Models/UserModel.py', reloading
+INFO 2022-06-15 13:32:35,646 ::  * Restarting with stat
+WARNING 2022-06-15 13:32:36,144 ::  * Debugger is active!
+INFO 2022-06-15 13:32:36,145 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:33:10,371 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:33:10,535 ::  * Restarting with stat
+WARNING 2022-06-15 13:33:11,064 ::  * Debugger is active!
+INFO 2022-06-15 13:33:11,065 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:33:20,691 :: 127.0.0.1 - - [15/Jun/2022 13:33:20] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:35:46,099 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:35:46,210 ::  * Restarting with stat
+WARNING 2022-06-15 13:35:46,585 ::  * Debugger is active!
+INFO 2022-06-15 13:35:46,586 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:35:54,121 :: 127.0.0.1 - - [15/Jun/2022 13:35:54] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:36:27,868 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:36:27,992 ::  * Restarting with stat
+INFO 2022-06-15 13:36:40,253 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 13:36:40,255 ::  * Restarting with stat
+WARNING 2022-06-15 13:36:40,636 ::  * Debugger is active!
+INFO 2022-06-15 13:36:40,637 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:37:11,858 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:37:11,970 ::  * Restarting with stat
+WARNING 2022-06-15 13:37:12,587 ::  * Debugger is active!
+INFO 2022-06-15 13:37:12,588 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:37:49,848 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:37:49,973 ::  * Restarting with stat
+WARNING 2022-06-15 13:37:50,477 ::  * Debugger is active!
+INFO 2022-06-15 13:37:50,477 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:37:57,233 :: 127.0.0.1 - - [15/Jun/2022 13:37:57] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:38:20,699 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:38:20,844 ::  * Restarting with stat
+WARNING 2022-06-15 13:38:21,224 ::  * Debugger is active!
+INFO 2022-06-15 13:38:21,225 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:38:23,426 :: 127.0.0.1 - - [15/Jun/2022 13:38:23] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:38:32,311 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:38:32,438 ::  * Restarting with stat
+WARNING 2022-06-15 13:38:32,839 ::  * Debugger is active!
+INFO 2022-06-15 13:38:32,840 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:38:41,909 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:38:42,030 ::  * Restarting with stat
+WARNING 2022-06-15 13:38:42,479 ::  * Debugger is active!
+INFO 2022-06-15 13:38:42,480 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:38:52,534 :: 127.0.0.1 - - [15/Jun/2022 13:38:52] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:39:39,875 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 13:39:40,008 ::  * Restarting with stat
+WARNING 2022-06-15 13:39:40,583 ::  * Debugger is active!
+INFO 2022-06-15 13:39:40,585 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:39:42,338 :: 127.0.0.1 - - [15/Jun/2022 13:39:42] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:40:02,754 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 13:40:02,894 ::  * Restarting with stat
+WARNING 2022-06-15 13:40:03,286 ::  * Debugger is active!
+INFO 2022-06-15 13:40:03,287 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:40:08,329 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 13:40:08,437 ::  * Restarting with stat
+WARNING 2022-06-15 13:40:08,826 ::  * Debugger is active!
+INFO 2022-06-15 13:40:08,827 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:40:10,395 :: 127.0.0.1 - - [15/Jun/2022 13:40:10] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:40:33,001 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:40:33,142 ::  * Restarting with stat
+WARNING 2022-06-15 13:40:33,696 ::  * Debugger is active!
+INFO 2022-06-15 13:40:33,697 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:40:36,087 :: 127.0.0.1 - - [15/Jun/2022 13:40:36] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:41:53,219 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:41:53,367 ::  * Restarting with stat
+WARNING 2022-06-15 13:41:53,865 ::  * Debugger is active!
+INFO 2022-06-15 13:41:53,866 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:42:06,966 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:42:07,161 ::  * Restarting with stat
+WARNING 2022-06-15 13:42:07,761 ::  * Debugger is active!
+INFO 2022-06-15 13:42:07,762 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:43:07,177 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:43:07,340 ::  * Restarting with stat
+WARNING 2022-06-15 13:43:07,799 ::  * Debugger is active!
+INFO 2022-06-15 13:43:07,800 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:43:14,853 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:43:14,972 ::  * Restarting with stat
+WARNING 2022-06-15 13:43:15,434 ::  * Debugger is active!
+INFO 2022-06-15 13:43:15,435 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:43:17,252 :: 127.0.0.1 - - [15/Jun/2022 13:43:17] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:43:23,499 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:43:23,614 ::  * Restarting with stat
+WARNING 2022-06-15 13:43:24,067 ::  * Debugger is active!
+INFO 2022-06-15 13:43:24,069 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:43:36,083 :: 127.0.0.1 - - [15/Jun/2022 13:43:36] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:44:28,502 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:44:28,653 ::  * Restarting with stat
+WARNING 2022-06-15 13:44:29,189 ::  * Debugger is active!
+INFO 2022-06-15 13:44:29,190 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:44:39,157 :: 127.0.0.1 - - [15/Jun/2022 13:44:39] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:45:26,597 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:45:26,756 ::  * Restarting with stat
+WARNING 2022-06-15 13:45:27,456 ::  * Debugger is active!
+INFO 2022-06-15 13:45:27,457 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:46:08,780 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 13:46:08,956 ::  * Restarting with stat
+WARNING 2022-06-15 13:46:09,456 ::  * Debugger is active!
+INFO 2022-06-15 13:46:09,457 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:46:11,806 :: 127.0.0.1 - - [15/Jun/2022 13:46:11] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:46:55,800 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 13:46:55,913 ::  * Restarting with stat
+WARNING 2022-06-15 13:46:56,382 ::  * Debugger is active!
+INFO 2022-06-15 13:46:56,383 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:47:03,922 :: 127.0.0.1 - - [15/Jun/2022 13:47:03] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:47:22,577 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 13:47:22,753 ::  * Restarting with stat
+WARNING 2022-06-15 13:47:23,429 ::  * Debugger is active!
+INFO 2022-06-15 13:47:23,431 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:47:32,148 :: 127.0.0.1 - - [15/Jun/2022 13:47:32] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:49:04,129 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:49:04,237 ::  * Restarting with stat
+WARNING 2022-06-15 13:49:04,702 ::  * Debugger is active!
+INFO 2022-06-15 13:49:04,703 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:49:14,782 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:49:14,877 ::  * Restarting with stat
+WARNING 2022-06-15 13:49:15,301 ::  * Debugger is active!
+INFO 2022-06-15 13:49:15,302 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:49:19,343 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 13:49:19,445 ::  * Restarting with stat
+WARNING 2022-06-15 13:49:19,809 ::  * Debugger is active!
+INFO 2022-06-15 13:49:19,809 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:49:32,464 :: 127.0.0.1 - - [15/Jun/2022 13:49:32] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:50:54,438 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:50:54,533 ::  * Restarting with stat
+WARNING 2022-06-15 13:50:55,123 ::  * Debugger is active!
+INFO 2022-06-15 13:50:55,125 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:51:07,222 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:51:07,334 ::  * Restarting with stat
+WARNING 2022-06-15 13:51:07,708 ::  * Debugger is active!
+INFO 2022-06-15 13:51:07,709 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:52:35,286 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 13:52:35,380 ::  * Restarting with stat
+WARNING 2022-06-15 13:52:35,748 ::  * Debugger is active!
+INFO 2022-06-15 13:52:35,749 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:52:52,393 :: 127.0.0.1 - - [15/Jun/2022 13:52:52] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:54:56,632 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 13:54:56,690 ::  * Restarting with stat
+INFO 2022-06-15 13:55:34,084 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 13:55:34,085 ::  * Restarting with stat
+WARNING 2022-06-15 13:55:34,328 ::  * Debugger is active!
+INFO 2022-06-15 13:55:34,329 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:55:37,085 :: 127.0.0.1 - - [15/Jun/2022 13:55:37] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:55:50,434 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 13:55:50,496 ::  * Restarting with stat
+WARNING 2022-06-15 13:55:50,831 ::  * Debugger is active!
+INFO 2022-06-15 13:55:50,831 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:55:56,877 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 13:55:56,947 ::  * Restarting with stat
+WARNING 2022-06-15 13:55:57,230 ::  * Debugger is active!
+INFO 2022-06-15 13:55:57,231 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:56:06,332 :: 127.0.0.1 - - [15/Jun/2022 13:56:06] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 13:56:44,533 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:56:44,580 ::  * Restarting with stat
+WARNING 2022-06-15 13:56:44,870 ::  * Debugger is active!
+INFO 2022-06-15 13:56:44,871 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:56:56,956 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:56:57,020 ::  * Restarting with stat
+WARNING 2022-06-15 13:56:57,271 ::  * Debugger is active!
+INFO 2022-06-15 13:56:57,271 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 13:57:34,512 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 13:57:34,570 ::  * Restarting with stat
+WARNING 2022-06-15 13:57:34,820 ::  * Debugger is active!
+INFO 2022-06-15 13:57:34,821 ::  * Debugger PIN: 521-737-442
+ERROR 2022-06-15 13:57:52,083 :: 2022-06-15 13:57:49.619272 Email is not sent (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials q7-20020aa79607000000b0051b915c1a47sm9189236pfg.113 - gsmtp')
+INFO 2022-06-15 13:58:16,689 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 13:58:16,690 ::  * Restarting with stat
+WARNING 2022-06-15 13:58:16,925 ::  * Debugger is active!
+INFO 2022-06-15 13:58:16,926 ::  * Debugger PIN: 521-737-442
+ERROR 2022-06-15 13:58:35,743 :: 2022-06-15 13:58:33.015707 Email is not sent (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials q2-20020a170902f78200b00164ade949adsm8740060pln.79 - gsmtp')
+INFO 2022-06-15 14:08:06,614 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 14:08:06,684 ::  * Restarting with stat
+WARNING 2022-06-15 14:08:07,071 ::  * Debugger is active!
+INFO 2022-06-15 14:08:07,071 ::  * Debugger PIN: 521-737-442
+ERROR 2022-06-15 14:08:17,510 :: 2022-06-15 14:08:14.600042 Email is not sent (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials l3-20020a17090aaa8300b001e08461ceaesm1107982pjq.37 - gsmtp')
+INFO 2022-06-15 14:09:15,498 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 14:09:15,571 ::  * Restarting with stat
+WARNING 2022-06-15 14:09:15,952 ::  * Debugger is active!
+INFO 2022-06-15 14:09:15,952 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:09:17,248 :: 127.0.0.1 - - [15/Jun/2022 14:09:17] "[33mPOST /verify-email/?token=b'gAAAAABiqZp2IivatOTsu9bg2G8w-UeohYCjtnt1xeu-xU8ggQVqsf_kK5UWbC8Of81bwIowWHBYShQIkm52ZgsuUxejfN_-J0KeC9PM4zxvkAeU08cz8r-Aj6bb2r-n66VwtHGwjW5N' HTTP/1.1[0m" 404 -
+INFO 2022-06-15 14:09:24,537 :: 127.0.0.1 - - [15/Jun/2022 14:09:24] "[31m[1mPOST /verify-email?token=b'gAAAAABiqZp2IivatOTsu9bg2G8w-UeohYCjtnt1xeu-xU8ggQVqsf_kK5UWbC8Of81bwIowWHBYShQIkm52ZgsuUxejfN_-J0KeC9PM4zxvkAeU08cz8r-Aj6bb2r-n66VwtHGwjW5N' HTTP/1.1[0m" 400 -
+INFO 2022-06-15 14:09:42,119 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 14:09:42,171 ::  * Restarting with stat
+WARNING 2022-06-15 14:09:42,462 ::  * Debugger is active!
+INFO 2022-06-15 14:09:42,463 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:09:43,309 :: 127.0.0.1 - - [15/Jun/2022 14:09:43] "[31m[1mPOST /verify-email?token=b'gAAAAABiqZp2IivatOTsu9bg2G8w-UeohYCjtnt1xeu-xU8ggQVqsf_kK5UWbC8Of81bwIowWHBYShQIkm52ZgsuUxejfN_-J0KeC9PM4zxvkAeU08cz8r-Aj6bb2r-n66VwtHGwjW5N' HTTP/1.1[0m" 400 -
+INFO 2022-06-15 14:09:53,537 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 14:09:53,604 ::  * Restarting with stat
+WARNING 2022-06-15 14:09:53,927 ::  * Debugger is active!
+INFO 2022-06-15 14:09:53,928 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:09:55,127 :: 127.0.0.1 - - [15/Jun/2022 14:09:55] "[31m[1mPOST /verify-email?token=b'gAAAAABiqZp2IivatOTsu9bg2G8w-UeohYCjtnt1xeu-xU8ggQVqsf_kK5UWbC8Of81bwIowWHBYShQIkm52ZgsuUxejfN_-J0KeC9PM4zxvkAeU08cz8r-Aj6bb2r-n66VwtHGwjW5N' HTTP/1.1[0m" 400 -
+INFO 2022-06-15 14:10:06,005 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 14:10:06,064 ::  * Restarting with stat
+WARNING 2022-06-15 14:10:06,313 ::  * Debugger is active!
+INFO 2022-06-15 14:10:06,313 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:10:22,421 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 14:10:22,481 ::  * Restarting with stat
+WARNING 2022-06-15 14:10:22,831 ::  * Debugger is active!
+INFO 2022-06-15 14:10:22,832 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:10:38,933 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 14:10:38,990 ::  * Restarting with stat
+WARNING 2022-06-15 14:10:39,255 ::  * Debugger is active!
+INFO 2022-06-15 14:10:39,255 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:10:54,349 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 14:10:54,422 ::  * Restarting with stat
+WARNING 2022-06-15 14:10:54,686 ::  * Debugger is active!
+INFO 2022-06-15 14:10:54,686 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:11:12,799 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 14:11:12,866 ::  * Restarting with stat
+WARNING 2022-06-15 14:11:13,238 ::  * Debugger is active!
+INFO 2022-06-15 14:11:13,239 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:11:26,336 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 14:11:26,392 ::  * Restarting with stat
+WARNING 2022-06-15 14:11:26,616 ::  * Debugger is active!
+INFO 2022-06-15 14:11:26,616 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:11:28,462 :: 127.0.0.1 - - [15/Jun/2022 14:11:28] "[31m[1mPOST /verify-email?token=b'gAAAAABiqZp2IivatOTsu9bg2G8w-UeohYCjtnt1xeu-xU8ggQVqsf_kK5UWbC8Of81bwIowWHBYShQIkm52ZgsuUxejfN_-J0KeC9PM4zxvkAeU08cz8r-Aj6bb2r-n66VwtHGwjW5N' HTTP/1.1[0m" 400 -
+INFO 2022-06-15 14:12:11,904 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 14:12:11,970 ::  * Restarting with stat
+WARNING 2022-06-15 14:12:12,289 ::  * Debugger is active!
+INFO 2022-06-15 14:12:12,289 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:13:33,823 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 14:13:33,904 ::  * Restarting with stat
+WARNING 2022-06-15 14:13:34,255 ::  * Debugger is active!
+INFO 2022-06-15 14:13:34,255 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:13:41,617 :: 127.0.0.1 - - [15/Jun/2022 14:13:41] "[31m[1mPOST /verify-email?token=b'gAAAAABiqZp2IivatOTsu9bg2G8w-UeohYCjtnt1xeu-xU8ggQVqsf_kK5UWbC8Of81bwIowWHBYShQIkm52ZgsuUxejfN_-J0KeC9PM4zxvkAeU08cz8r-Aj6bb2r-n66VwtHGwjW5N' HTTP/1.1[0m" 400 -
+INFO 2022-06-15 14:13:50,286 :: 127.0.0.1 - - [15/Jun/2022 14:13:50] "[31m[1mPOST /verify-email?token=b'gAAAAABiqZp2IivatOTsu9bg2G8w-UeohYCjtnt1xeu-xU8ggQVqsf_kK5UWbC8Of81bwIowWHBYShQIkm52ZgsuUxejfN_-J0KeC9PM4zxvkAeU08cz8r-Aj6bb2r-n66VwtHGwjW5N' HTTP/1.1[0m" 400 -
+INFO 2022-06-15 14:14:03,459 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 14:14:03,514 ::  * Restarting with stat
+WARNING 2022-06-15 14:14:03,764 ::  * Debugger is active!
+INFO 2022-06-15 14:14:03,765 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:14:06,007 :: 127.0.0.1 - - [15/Jun/2022 14:14:06] "[31m[1mPOST /verify-email?token=b'gAAAAABiqZp2IivatOTsu9bg2G8w-UeohYCjtnt1xeu-xU8ggQVqsf_kK5UWbC8Of81bwIowWHBYShQIkm52ZgsuUxejfN_-J0KeC9PM4zxvkAeU08cz8r-Aj6bb2r-n66VwtHGwjW5N' HTTP/1.1[0m" 400 -
+INFO 2022-06-15 14:14:48,063 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 14:14:48,122 ::  * Restarting with stat
+WARNING 2022-06-15 14:14:48,463 ::  * Debugger is active!
+INFO 2022-06-15 14:14:48,463 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:15:22,680 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 14:15:22,744 ::  * Restarting with stat
+WARNING 2022-06-15 14:15:23,146 ::  * Debugger is active!
+INFO 2022-06-15 14:15:23,146 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:37:30,481 :: 127.0.0.1 - - [15/Jun/2022 14:37:30] "[31m[1mPOST /verify-email?token=b'gAAAAABiqZp2IivatOTsu9bg2G8w-UeohYCjtnt1xeu-xU8ggQVqsf_kK5UWbC8Of81bwIowWHBYShQIkm52ZgsuUxejfN_-J0KeC9PM4zxvkAeU08cz8r-Aj6bb2r-n66VwtHGwjW5N' HTTP/1.1[0m" 400 -
+INFO 2022-06-15 14:40:06,057 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 14:40:06,222 ::  * Restarting with stat
+WARNING 2022-06-15 14:40:06,717 ::  * Debugger is active!
+INFO 2022-06-15 14:40:06,718 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:40:08,742 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 14:40:08,841 ::  * Restarting with stat
+INFO 2022-06-15 14:44:05,063 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 14:44:05,065 ::  * Restarting with stat
+WARNING 2022-06-15 14:44:05,402 ::  * Debugger is active!
+INFO 2022-06-15 14:44:05,403 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:44:08,745 :: 127.0.0.1 - - [15/Jun/2022 14:44:08] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 14:45:04,773 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 14:45:04,860 ::  * Restarting with stat
+WARNING 2022-06-15 14:45:05,187 ::  * Debugger is active!
+INFO 2022-06-15 14:45:05,187 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:45:09,223 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 14:45:09,308 ::  * Restarting with stat
+WARNING 2022-06-15 14:45:09,675 ::  * Debugger is active!
+INFO 2022-06-15 14:45:09,676 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:45:16,355 :: 127.0.0.1 - - [15/Jun/2022 14:45:16] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 14:46:51,305 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 14:46:51,432 ::  * Restarting with stat
+WARNING 2022-06-15 14:46:51,830 ::  * Debugger is active!
+INFO 2022-06-15 14:46:51,831 ::  * Debugger PIN: 521-737-442
+ERROR 2022-06-15 14:46:57,344 :: 2022-06-15 14:46:54.205108 Email is not sent (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials d10-20020a170902f14a00b00162529828aesm8684290plb.109 - gsmtp')
+INFO 2022-06-15 14:47:41,314 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 14:47:41,316 ::  * Restarting with stat
+WARNING 2022-06-15 14:47:41,644 ::  * Debugger is active!
+INFO 2022-06-15 14:47:41,645 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:47:57,750 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 14:47:57,852 ::  * Restarting with stat
+WARNING 2022-06-15 14:47:58,209 ::  * Debugger is active!
+INFO 2022-06-15 14:47:58,210 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:48:06,982 :: 127.0.0.1 - - [15/Jun/2022 14:48:06] "[31m[1mPOST /verify-email?token=b%22\xe2\x12*\xb7\x17\x07%3Ew\x9c\xd2\xfc'\xb7\xc5\x14\x0b.\x8f7\xfc\x94\x1c\x8b\x960\xe9\x06\xc9\x08\xf3[\x9eR*s%22 HTTP/1.1[0m" 400 -
+INFO 2022-06-15 14:48:22,358 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 14:48:22,441 ::  * Restarting with stat
+WARNING 2022-06-15 14:48:22,795 ::  * Debugger is active!
+INFO 2022-06-15 14:48:22,795 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:48:37,412 :: 127.0.0.1 - - [15/Jun/2022 14:48:37] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 14:49:40,975 :: 127.0.0.1 - - [15/Jun/2022 14:49:40] "[33mPOST /verify-email/?token=b%22\xe2\x12*\xb7\x17\x07%3Ew\x9c\xd2\xfc'\xb7\xc5\x14\x0b.\x8f7\xfc\x94\x1c\x8b\x960\xe9\x06\xc9\x08\xf3[\x9eR*s%22 HTTP/1.1[0m" 404 -
+INFO 2022-06-15 14:49:46,829 :: 127.0.0.1 - - [15/Jun/2022 14:49:46] "[31m[1mPOST /verify-email?token=b%22\xe2\x12*\xb7\x17\x07%3Ew\x9c\xd2\xfc'\xb7\xc5\x14\x0b.\x8f7\xfc\x94\x1c\x8b\x960\xe9\x06\xc9\x08\xf3[\x9eR*s%22 HTTP/1.1[0m" 400 -
+INFO 2022-06-15 14:53:22,681 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 14:53:22,794 ::  * Restarting with stat
+WARNING 2022-06-15 14:53:23,173 ::  * Debugger is active!
+INFO 2022-06-15 14:53:23,174 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:53:29,220 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 14:53:29,303 ::  * Restarting with stat
+WARNING 2022-06-15 14:53:29,654 ::  * Debugger is active!
+INFO 2022-06-15 14:53:29,655 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:53:36,706 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 14:53:36,794 ::  * Restarting with stat
+WARNING 2022-06-15 14:53:37,176 ::  * Debugger is active!
+INFO 2022-06-15 14:53:37,177 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:53:38,158 :: 127.0.0.1 - - [15/Jun/2022 14:53:38] "[31m[1mPOST /verify-email?token=b%22\xe2\x12*\xb7\x17\x07%3Ew\x9c\xd2\xfc'\xb7\xc5\x14\x0b.\x8f7\xfc\x94\x1c\x8b\x960\xe9\x06\xc9\x08\xf3[\x9eR*s%22 HTTP/1.1[0m" 400 -
+INFO 2022-06-15 14:53:57,311 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 14:53:57,453 ::  * Restarting with stat
+WARNING 2022-06-15 14:53:58,035 ::  * Debugger is active!
+INFO 2022-06-15 14:53:58,036 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:53:59,103 :: 127.0.0.1 - - [15/Jun/2022 14:53:59] "[31m[1mPOST /verify-email?token=b%22\xe2\x12*\xb7\x17\x07%3Ew\x9c\xd2\xfc'\xb7\xc5\x14\x0b.\x8f7\xfc\x94\x1c\x8b\x960\xe9\x06\xc9\x08\xf3[\x9eR*s%22 HTTP/1.1[0m" 400 -
+INFO 2022-06-15 14:54:10,123 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 14:54:10,253 ::  * Restarting with stat
+WARNING 2022-06-15 14:54:10,699 ::  * Debugger is active!
+INFO 2022-06-15 14:54:10,700 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:54:12,037 :: 127.0.0.1 - - [15/Jun/2022 14:54:12] "[31m[1mPOST /verify-email?token=b%22\xe2\x12*\xb7\x17\x07%3Ew\x9c\xd2\xfc'\xb7\xc5\x14\x0b.\x8f7\xfc\x94\x1c\x8b\x960\xe9\x06\xc9\x08\xf3[\x9eR*s%22 HTTP/1.1[0m" 400 -
+INFO 2022-06-15 14:54:23,792 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 14:54:23,886 ::  * Restarting with stat
+WARNING 2022-06-15 14:54:24,359 ::  * Debugger is active!
+INFO 2022-06-15 14:54:24,360 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:54:35,444 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 14:54:35,540 ::  * Restarting with stat
+WARNING 2022-06-15 14:54:36,049 ::  * Debugger is active!
+INFO 2022-06-15 14:54:36,050 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 14:54:37,478 :: 127.0.0.1 - - [15/Jun/2022 14:54:37] "[31m[1mPOST /verify-email?token=b%22\xe2\x12*\xb7\x17\x07%3Ew\x9c\xd2\xfc'\xb7\xc5\x14\x0b.\x8f7\xfc\x94\x1c\x8b\x960\xe9\x06\xc9\x08\xf3[\x9eR*s%22 HTTP/1.1[0m" 400 -
+INFO 2022-06-15 15:01:13,331 :: 127.0.0.1 - - [15/Jun/2022 15:01:13] "[31m[1mPOST /verify-email?token=b%22\xe2\x12*\xb7\x17\x07%3Ew\x9c\xd2\xfc'\xb7\xc5\x14\x0b.\x8f7\xfc\x94\x1c\x8b\x960\xe9\x06\xc9\x08\xf3[\x9eR*s%22 HTTP/1.1[0m" 400 -
+INFO 2022-06-15 15:02:40,897 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:02:40,940 ::  * Restarting with stat
+WARNING 2022-06-15 15:02:41,141 ::  * Debugger is active!
+INFO 2022-06-15 15:02:41,141 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:02:45,172 :: 127.0.0.1 - - [15/Jun/2022 15:02:45] "[31m[1mPOST /verify-email?token=b%22\xe2\x12*\xb7\x17\x07%3Ew\x9c\xd2\xfc'\xb7\xc5\x14\x0b.\x8f7\xfc\x94\x1c\x8b\x960\xe9\x06\xc9\x08\xf3[\x9eR*s%22 HTTP/1.1[0m" 400 -
+INFO 2022-06-15 15:02:51,205 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:02:51,254 ::  * Restarting with stat
+WARNING 2022-06-15 15:02:51,496 ::  * Debugger is active!
+INFO 2022-06-15 15:02:51,497 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:02:53,510 :: 127.0.0.1 - - [15/Jun/2022 15:02:53] "[31m[1mPOST /verify-email?token=b%22\xe2\x12*\xb7\x17\x07%3Ew\x9c\xd2\xfc'\xb7\xc5\x14\x0b.\x8f7\xfc\x94\x1c\x8b\x960\xe9\x06\xc9\x08\xf3[\x9eR*s%22 HTTP/1.1[0m" 400 -
+INFO 2022-06-15 15:03:50,600 :: 127.0.0.1 - - [15/Jun/2022 15:03:50] "[31m[1mPOST /verify-email?token=b%22\xe2\x12*\xb7\x17\x07%3Ew\x9c\xd2\xfc'\xb7\xc5\x14\x0b.\x8f7\xfc\x94\x1c\x8b\x960\xe9\x06\xc9\x08\xf3[\x9eR*s%22 HTTP/1.1[0m" 400 -
+INFO 2022-06-15 15:09:53,877 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:09:53,930 ::  * Restarting with stat
+WARNING 2022-06-15 15:09:54,211 ::  * Debugger is active!
+INFO 2022-06-15 15:09:54,212 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:10:10,905 :: 127.0.0.1 - - [15/Jun/2022 15:10:10] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 15:10:14,129 :: 127.0.0.1 - - [15/Jun/2022 15:10:14] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 15:10:50,549 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:10:50,626 ::  * Restarting with stat
+WARNING 2022-06-15 15:10:50,933 ::  * Debugger is active!
+INFO 2022-06-15 15:10:50,934 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:10:53,211 :: 127.0.0.1 - - [15/Jun/2022 15:10:53] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 15:11:09,054 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:11:09,098 ::  * Restarting with stat
+WARNING 2022-06-15 15:11:09,300 ::  * Debugger is active!
+INFO 2022-06-15 15:11:09,301 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:11:15,842 :: 127.0.0.1 - - [15/Jun/2022 15:11:15] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 15:11:42,472 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 15:11:42,529 ::  * Restarting with stat
+WARNING 2022-06-15 15:11:42,820 ::  * Debugger is active!
+INFO 2022-06-15 15:11:42,820 ::  * Debugger PIN: 521-737-442
+ERROR 2022-06-15 15:11:48,724 :: 2022-06-15 15:11:45.234801 Email is not sent (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials x3-20020a17090a8a8300b001ea9bbe0bb7sm1249981pjn.34 - gsmtp')
+INFO 2022-06-15 15:12:17,026 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:12:17,102 ::  * Restarting with stat
+WARNING 2022-06-15 15:12:17,437 ::  * Debugger is active!
+INFO 2022-06-15 15:12:17,437 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:12:18,703 :: 127.0.0.1 - - [15/Jun/2022 15:12:18] "[31m[1mPOST /verify-email?token=b'\xe2\x1f*\xb5\x16Yd&\x95\xdf\xad,\xb2\x93\x13\x0b(\x8eg\xfc\xc5F\x87\x92a\xbc\x07\x9a\t\xf9\x0f\xcf\x06x%20' HTTP/1.1[0m" 400 -
+INFO 2022-06-15 15:12:34,534 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:12:34,591 ::  * Restarting with stat
+WARNING 2022-06-15 15:12:34,920 ::  * Debugger is active!
+INFO 2022-06-15 15:12:34,921 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:18:11,811 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 15:18:11,865 ::  * Restarting with stat
+WARNING 2022-06-15 15:18:12,116 ::  * Debugger is active!
+INFO 2022-06-15 15:18:12,117 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:19:02,411 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 15:19:02,468 ::  * Restarting with stat
+WARNING 2022-06-15 15:19:02,701 ::  * Debugger is active!
+INFO 2022-06-15 15:19:02,701 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:19:09,742 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 15:19:09,785 ::  * Restarting with stat
+WARNING 2022-06-15 15:19:10,008 ::  * Debugger is active!
+INFO 2022-06-15 15:19:10,009 ::  * Debugger PIN: 521-737-442
+ERROR 2022-06-15 15:19:15,047 :: 2022-06-15 15:19:12.418956 Email is not sent (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials d8-20020a170902654800b0015e8d4eb2ccsm8811362pln.278 - gsmtp')
+INFO 2022-06-15 15:19:45,213 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:19:45,282 ::  * Restarting with stat
+WARNING 2022-06-15 15:19:45,498 ::  * Debugger is active!
+INFO 2022-06-15 15:19:45,499 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:20:06,806 :: 127.0.0.1 - - [15/Jun/2022 15:20:06] "[33mPOST /verify-email/token=b%22/xe2/x12*/xb7/x17/x07%3Ew/x9c/xd2/xfc'/xb7/xc5/x14/x0b./x8f7/xfc/x94/x1c/x8b/x960/xe9/x06/xc9/x08/xf3[/x9eR*s%22 HTTP/1.1[0m" 404 -
+INFO 2022-06-15 15:20:29,764 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:20:29,814 ::  * Restarting with stat
+WARNING 2022-06-15 15:20:30,029 ::  * Debugger is active!
+INFO 2022-06-15 15:20:30,030 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:23:01,891 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 15:23:01,941 ::  * Restarting with stat
+WARNING 2022-06-15 15:23:02,167 ::  * Debugger is active!
+INFO 2022-06-15 15:23:02,167 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:25:13,936 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:25:13,980 ::  * Restarting with stat
+WARNING 2022-06-15 15:25:14,191 ::  * Debugger is active!
+INFO 2022-06-15 15:25:14,191 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:25:33,345 :: 127.0.0.1 - - [15/Jun/2022 15:25:33] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 15:26:08,495 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:26:08,568 ::  * Restarting with stat
+WARNING 2022-06-15 15:26:08,792 ::  * Debugger is active!
+INFO 2022-06-15 15:26:08,793 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:26:18,459 :: 127.0.0.1 - - [15/Jun/2022 15:26:18] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+INFO 2022-06-15 15:26:41,987 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:26:42,040 ::  * Restarting with stat
+WARNING 2022-06-15 15:26:42,267 ::  * Debugger is active!
+INFO 2022-06-15 15:26:42,267 ::  * Debugger PIN: 521-737-442
+ERROR 2022-06-15 15:26:49,168 :: 2022-06-15 15:26:46.755275 Email is not sent (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials m12-20020a1709026bcc00b00162037fbacdsm8786186plt.187 - gsmtp')
+INFO 2022-06-15 15:27:08,416 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:27:08,473 ::  * Restarting with stat
+WARNING 2022-06-15 15:27:08,695 ::  * Debugger is active!
+INFO 2022-06-15 15:27:08,696 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:27:26,652 :: 127.0.0.1 - - [15/Jun/2022 15:27:26] "[31m[1mPOST /verify-email?token=b'\xe1\x12*\xb5JZ%3E%20\x9e\x8b\xf9{\xb1\xc4\x10\x0b\x7f\x8f1\xa6\x90\x19\xd4\x915\xeaW\x99\x04\xf0\x0b\x9eT+$' HTTP/1.1[0m" 400 -
+INFO 2022-06-15 15:27:38,879 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:27:38,938 ::  * Restarting with stat
+WARNING 2022-06-15 15:27:39,176 ::  * Debugger is active!
+INFO 2022-06-15 15:27:39,176 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:28:35,490 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:28:35,568 ::  * Restarting with stat
+WARNING 2022-06-15 15:28:35,875 ::  * Debugger is active!
+INFO 2022-06-15 15:28:35,876 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:31:42,921 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:31:42,975 ::  * Restarting with stat
+WARNING 2022-06-15 15:31:43,214 ::  * Debugger is active!
+INFO 2022-06-15 15:31:43,215 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:31:45,939 :: 127.0.0.1 - - [15/Jun/2022 15:31:45] "[31m[1mPOST /verify-email?token=b'\xe1\x12*\xb5JZ%3E%20\x9e\x8b\xf9{\xb1\xc4\x10\x0b\x7f\x8f1\xa6\x90\x19\xd4\x915\xeaW\x99\x04\xf0\x0b\x9eT+$' HTTP/1.1[0m" 400 -
+INFO 2022-06-15 15:32:04,342 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:32:04,422 ::  * Restarting with stat
+WARNING 2022-06-15 15:32:04,686 ::  * Debugger is active!
+INFO 2022-06-15 15:32:04,686 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:32:13,742 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 15:32:13,792 ::  * Restarting with stat
+WARNING 2022-06-15 15:32:14,026 ::  * Debugger is active!
+INFO 2022-06-15 15:32:14,026 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:32:16,042 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 15:32:16,110 ::  * Restarting with stat
+WARNING 2022-06-15 15:32:16,396 ::  * Debugger is active!
+INFO 2022-06-15 15:32:16,397 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:32:17,414 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 15:32:17,483 ::  * Restarting with stat
+WARNING 2022-06-15 15:32:17,713 ::  * Debugger is active!
+INFO 2022-06-15 15:32:17,713 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:32:20,059 :: 127.0.0.1 - - [15/Jun/2022 15:32:20] "[31m[1mPOST /verify-email?token=b'\xe1\x12*\xb5JZ%3E%20\x9e\x8b\xf9{\xb1\xc4\x10\x0b\x7f\x8f1\xa6\x90\x19\xd4\x915\xeaW\x99\x04\xf0\x0b\x9eT+$' HTTP/1.1[0m" 400 -
+INFO 2022-06-15 15:33:26,103 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 15:33:26,152 ::  * Restarting with stat
+WARNING 2022-06-15 15:33:26,384 ::  * Debugger is active!
+INFO 2022-06-15 15:33:26,384 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:33:28,062 :: 127.0.0.1 - - [15/Jun/2022 15:33:28] "[31m[1mPOST /verify-email?token=b'\xe1\x12*\xb5JZ%3E%20\x9e\x8b\xf9{\xb1\xc4\x10\x0b\x7f\x8f1\xa6\x90\x19\xd4\x915\xeaW\x99\x04\xf0\x0b\x9eT+$' HTTP/1.1[0m" 400 -
+INFO 2022-06-15 15:33:39,464 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 15:33:39,526 ::  * Restarting with stat
+WARNING 2022-06-15 15:33:39,751 ::  * Debugger is active!
+INFO 2022-06-15 15:33:39,752 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:33:42,257 :: 127.0.0.1 - - [15/Jun/2022 15:33:42] "[31m[1mPOST /verify-email?token=b'\xe1\x12*\xb5JZ%3E%20\x9e\x8b\xf9{\xb1\xc4\x10\x0b\x7f\x8f1\xa6\x90\x19\xd4\x915\xeaW\x99\x04\xf0\x0b\x9eT+$' HTTP/1.1[0m" 400 -
+INFO 2022-06-15 15:34:07,917 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 15:34:07,968 ::  * Restarting with stat
+WARNING 2022-06-15 15:34:08,201 ::  * Debugger is active!
+INFO 2022-06-15 15:34:08,202 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:34:09,851 :: 127.0.0.1 - - [15/Jun/2022 15:34:09] "[31m[1mPOST /verify-email?token=b'\xe1\x12*\xb5JZ%3E%20\x9e\x8b\xf9{\xb1\xc4\x10\x0b\x7f\x8f1\xa6\x90\x19\xd4\x915\xeaW\x99\x04\xf0\x0b\x9eT+$' HTTP/1.1[0m" 400 -
+INFO 2022-06-15 15:35:42,744 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 15:35:42,810 ::  * Restarting with stat
+WARNING 2022-06-15 15:35:43,036 ::  * Debugger is active!
+INFO 2022-06-15 15:35:43,037 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:35:44,502 :: 127.0.0.1 - - [15/Jun/2022 15:35:44] "[31m[1mPOST /verify-email?token=b'\xe1\x12*\xb5JZ%3E%20\x9e\x8b\xf9{\xb1\xc4\x10\x0b\x7f\x8f1\xa6\x90\x19\xd4\x915\xeaW\x99\x04\xf0\x0b\x9eT+$' HTTP/1.1[0m" 400 -
+INFO 2022-06-15 15:35:59,341 :: 127.0.0.1 - - [15/Jun/2022 15:35:59] "[31m[1mPOST /verify-email?token='\xe1\x12*\xb5JZ%3E%20\x9e\x8b\xf9{\xb1\xc4\x10\x0b\x7f\x8f1\xa6\x90\x19\xd4\x915\xeaW\x99\x04\xf0\x0b\x9eT+$' HTTP/1.1[0m" 400 -
+INFO 2022-06-15 15:36:07,821 :: 127.0.0.1 - - [15/Jun/2022 15:36:07] "[31m[1mPOST /verify-email?token=%22\xe1\x12*\xb5JZ%3E%20\x9e\x8b\xf9{\xb1\xc4\x10\x0b\x7f\x8f1\xa6\x90\x19\xd4\x915\xeaW\x99\x04\xf0\x0b\x9eT+$%22 HTTP/1.1[0m" 400 -
+INFO 2022-06-15 15:36:14,222 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 15:36:14,275 ::  * Restarting with stat
+WARNING 2022-06-15 15:36:14,593 ::  * Debugger is active!
+INFO 2022-06-15 15:36:14,594 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:38:01,201 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:38:01,261 ::  * Restarting with stat
+WARNING 2022-06-15 15:38:01,507 ::  * Debugger is active!
+INFO 2022-06-15 15:38:01,508 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:38:36,714 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:38:36,757 ::  * Restarting with stat
+WARNING 2022-06-15 15:38:36,981 ::  * Debugger is active!
+INFO 2022-06-15 15:38:36,981 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:51:12,834 :: 127.0.0.1 - - [15/Jun/2022 15:51:12] "[31m[1mPOST /verify-email?token=b'\xe1\x12*\xb5JZ%3E%20\x9e\x8b\xf9{\xb1\xc4\x10\x0b\x7f\x8f1\xa6\x90\x19\xd4\x915\xeaW\x99\x04\xf0\x0b\x9eT+$' HTTP/1.1[0m" 400 -
+INFO 2022-06-15 15:51:24,229 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 15:51:24,301 ::  * Restarting with stat
+WARNING 2022-06-15 15:51:24,620 ::  * Debugger is active!
+INFO 2022-06-15 15:51:24,621 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:52:55,137 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 15:52:55,191 ::  * Restarting with stat
+WARNING 2022-06-15 15:52:55,403 ::  * Debugger is active!
+INFO 2022-06-15 15:52:55,403 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:56:57,754 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:56:57,807 ::  * Restarting with stat
+INFO 2022-06-15 15:58:05,318 ::  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO 2022-06-15 15:58:05,319 ::  * Restarting with stat
+WARNING 2022-06-15 15:58:05,620 ::  * Debugger is active!
+INFO 2022-06-15 15:58:05,620 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:58:26,761 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:58:26,832 ::  * Restarting with stat
+WARNING 2022-06-15 15:58:27,173 ::  * Debugger is active!
+INFO 2022-06-15 15:58:27,173 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:58:38,247 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:58:38,311 ::  * Restarting with stat
+WARNING 2022-06-15 15:58:38,626 ::  * Debugger is active!
+INFO 2022-06-15 15:58:38,626 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:58:45,675 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:58:45,736 ::  * Restarting with stat
+WARNING 2022-06-15 15:58:46,042 ::  * Debugger is active!
+INFO 2022-06-15 15:58:46,043 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:58:56,114 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:58:56,174 ::  * Restarting with stat
+WARNING 2022-06-15 15:58:56,476 ::  * Debugger is active!
+INFO 2022-06-15 15:58:56,477 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:59:09,573 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:59:09,630 ::  * Restarting with stat
+WARNING 2022-06-15 15:59:09,947 ::  * Debugger is active!
+INFO 2022-06-15 15:59:09,948 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 15:59:13,979 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 15:59:14,035 ::  * Restarting with stat
+WARNING 2022-06-15 15:59:14,324 ::  * Debugger is active!
+INFO 2022-06-15 15:59:14,325 ::  * Debugger PIN: 521-737-442
+ERROR 2022-06-15 15:59:39,865 :: 2022-06-15 15:59:37.141941 Email is not sent (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials h6-20020a170902f7c600b00163f6428657sm8902700plw.6 - gsmtp')
+INFO 2022-06-15 16:01:35,242 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:01:35,305 ::  * Restarting with stat
+WARNING 2022-06-15 16:01:35,608 ::  * Debugger is active!
+INFO 2022-06-15 16:01:35,608 ::  * Debugger PIN: 521-737-442
+ERROR 2022-06-15 16:01:51,144 :: 2022-06-15 16:01:48.278853 Email is not sent (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials ix22-20020a170902f81600b001677fa34a07sm8972672plb.43 - gsmtp')
+INFO 2022-06-15 16:02:47,070 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:02:47,131 ::  * Restarting with stat
+WARNING 2022-06-15 16:02:47,463 ::  * Debugger is active!
+INFO 2022-06-15 16:02:47,464 ::  * Debugger PIN: 521-737-442
+ERROR 2022-06-15 16:03:18,027 :: 2022-06-15 16:03:15.832995 Email is not sent (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials f2-20020a170902ab8200b001616b71e5e3sm8897194plr.171 - gsmtp')
+INFO 2022-06-15 16:03:48,868 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 16:03:48,944 ::  * Restarting with stat
+WARNING 2022-06-15 16:03:49,297 ::  * Debugger is active!
+INFO 2022-06-15 16:03:49,297 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:04:05,409 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 16:04:05,495 ::  * Restarting with stat
+WARNING 2022-06-15 16:04:05,858 ::  * Debugger is active!
+INFO 2022-06-15 16:04:05,859 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:04:14,925 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 16:04:14,992 ::  * Restarting with stat
+WARNING 2022-06-15 16:04:15,321 ::  * Debugger is active!
+INFO 2022-06-15 16:04:15,322 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:04:36,470 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 16:04:36,553 ::  * Restarting with stat
+WARNING 2022-06-15 16:04:36,881 ::  * Debugger is active!
+INFO 2022-06-15 16:04:36,882 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:04:51,994 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 16:04:52,050 ::  * Restarting with stat
+WARNING 2022-06-15 16:04:52,395 ::  * Debugger is active!
+INFO 2022-06-15 16:04:52,396 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:05:08,507 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 16:05:08,584 ::  * Restarting with stat
+WARNING 2022-06-15 16:05:08,994 ::  * Debugger is active!
+INFO 2022-06-15 16:05:08,994 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:05:22,080 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 16:05:22,161 ::  * Restarting with stat
+WARNING 2022-06-15 16:05:22,554 ::  * Debugger is active!
+INFO 2022-06-15 16:05:22,555 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:05:43,707 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 16:05:43,764 ::  * Restarting with stat
+WARNING 2022-06-15 16:05:44,049 ::  * Debugger is active!
+INFO 2022-06-15 16:05:44,050 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:06:18,266 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 16:06:18,319 ::  * Restarting with stat
+WARNING 2022-06-15 16:06:18,647 ::  * Debugger is active!
+INFO 2022-06-15 16:06:18,647 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:07:16,029 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 16:07:16,113 ::  * Restarting with stat
+WARNING 2022-06-15 16:07:16,461 ::  * Debugger is active!
+INFO 2022-06-15 16:07:16,462 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:07:36,597 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 16:07:36,666 ::  * Restarting with stat
+WARNING 2022-06-15 16:07:37,014 ::  * Debugger is active!
+INFO 2022-06-15 16:07:37,014 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:08:09,229 ::  * Detected change in '/var/www/html/EZWORKS/Helpers/hepler.py', reloading
+INFO 2022-06-15 16:08:09,281 ::  * Restarting with stat
+WARNING 2022-06-15 16:08:09,586 ::  * Debugger is active!
+INFO 2022-06-15 16:08:09,586 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:09:20,044 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:09:20,098 ::  * Restarting with stat
+WARNING 2022-06-15 16:09:20,394 ::  * Debugger is active!
+INFO 2022-06-15 16:09:20,395 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:10:50,989 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:10:51,049 ::  * Restarting with stat
+WARNING 2022-06-15 16:10:51,476 ::  * Debugger is active!
+INFO 2022-06-15 16:10:51,477 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:12:21,068 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:12:21,123 ::  * Restarting with stat
+WARNING 2022-06-15 16:12:21,447 ::  * Debugger is active!
+INFO 2022-06-15 16:12:21,447 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:12:35,541 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:12:35,623 ::  * Restarting with stat
+WARNING 2022-06-15 16:12:36,041 ::  * Debugger is active!
+INFO 2022-06-15 16:12:36,042 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:12:57,575 :: 127.0.0.1 - - [15/Jun/2022 16:12:57] "[31m[1mPOST /verify-email?token=GE0amihq5vgfmlL67iWN95WVsvD4Zjb53DqY0xQ/JH1kphQ=*mzfA/ifpkuSqiwI7ARq+1w==*pRtl3IVDyj7X3TurhhP+FA==*x6+BwwGes0uhcGQtlUtLPA== HTTP/1.1[0m" 400 -
+INFO 2022-06-15 16:13:36,431 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:13:36,499 ::  * Restarting with stat
+WARNING 2022-06-15 16:13:36,810 ::  * Debugger is active!
+INFO 2022-06-15 16:13:36,811 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:13:47,882 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:13:47,949 ::  * Restarting with stat
+WARNING 2022-06-15 16:13:48,267 ::  * Debugger is active!
+INFO 2022-06-15 16:13:48,267 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:16:00,099 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:16:00,161 ::  * Restarting with stat
+WARNING 2022-06-15 16:16:00,496 ::  * Debugger is active!
+INFO 2022-06-15 16:16:00,496 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:17:14,979 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:17:15,043 ::  * Restarting with stat
+WARNING 2022-06-15 16:17:15,364 ::  * Debugger is active!
+INFO 2022-06-15 16:17:15,365 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:17:19,058 :: 127.0.0.1 - - [15/Jun/2022 16:17:19] "[31m[1mPOST /registration HTTP/1.1[0m" 400 -
+ERROR 2022-06-15 16:17:39,995 :: 2022-06-15 16:17:36.918611 Email is not sent (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials n89-20020a17090a5ae200b001e880972840sm1458537pji.29 - gsmtp')
+INFO 2022-06-15 16:18:15,774 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:18:15,840 ::  * Restarting with stat
+WARNING 2022-06-15 16:18:16,255 ::  * Debugger is active!
+INFO 2022-06-15 16:18:16,256 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:18:52,491 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:18:52,559 ::  * Restarting with stat
+WARNING 2022-06-15 16:18:52,903 ::  * Debugger is active!
+INFO 2022-06-15 16:18:52,904 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:19:16,058 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:19:16,114 ::  * Restarting with stat
+WARNING 2022-06-15 16:19:16,432 ::  * Debugger is active!
+INFO 2022-06-15 16:19:16,432 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:19:33,547 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:19:33,615 ::  * Restarting with stat
+WARNING 2022-06-15 16:19:33,932 ::  * Debugger is active!
+INFO 2022-06-15 16:19:33,932 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:19:49,036 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:19:49,096 ::  * Restarting with stat
+WARNING 2022-06-15 16:19:49,406 ::  * Debugger is active!
+INFO 2022-06-15 16:19:49,406 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:20:05,488 :: 127.0.0.1 - - [15/Jun/2022 16:20:05] "[31m[1mPOST /verify-email?token=6gfm4/PwETugIjEkSkaE9400wcsnrsWKv2S8V4qXpMEOT4k%3D*jQHUyuFF+kDFsG7PktTMlw%3D%3D*1gGSCDKkOHEHwri3aXezlQ%3D%3D*zz71kJ3vGPvlEybLo19PTQ%3D%3D HTTP/1.1[0m" 400 -
+INFO 2022-06-15 16:20:19,592 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:20:19,660 ::  * Restarting with stat
+WARNING 2022-06-15 16:20:20,088 ::  * Debugger is active!
+INFO 2022-06-15 16:20:20,088 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:20:21,187 :: 127.0.0.1 - - [15/Jun/2022 16:20:21] "[31m[1mPOST /verify-email?token=6gfm4/PwETugIjEkSkaE9400wcsnrsWKv2S8V4qXpMEOT4k%3D*jQHUyuFF+kDFsG7PktTMlw%3D%3D*1gGSCDKkOHEHwri3aXezlQ%3D%3D*zz71kJ3vGPvlEybLo19PTQ%3D%3D HTTP/1.1[0m" 400 -
+INFO 2022-06-15 16:20:32,168 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:20:32,227 ::  * Restarting with stat
+WARNING 2022-06-15 16:20:32,610 ::  * Debugger is active!
+INFO 2022-06-15 16:20:32,611 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:20:33,828 :: 127.0.0.1 - - [15/Jun/2022 16:20:33] "[31m[1mPOST /verify-email?token=6gfm4/PwETugIjEkSkaE9400wcsnrsWKv2S8V4qXpMEOT4k%3D*jQHUyuFF+kDFsG7PktTMlw%3D%3D*1gGSCDKkOHEHwri3aXezlQ%3D%3D*zz71kJ3vGPvlEybLo19PTQ%3D%3D HTTP/1.1[0m" 400 -
+INFO 2022-06-15 16:21:45,088 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:21:45,164 ::  * Restarting with stat
+WARNING 2022-06-15 16:21:45,664 ::  * Debugger is active!
+INFO 2022-06-15 16:21:45,665 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:21:48,025 :: 127.0.0.1 - - [15/Jun/2022 16:21:48] "[31m[1mPOST /verify-email?token=6gfm4/PwETugIjEkSkaE9400wcsnrsWKv2S8V4qXpMEOT4k%3D*jQHUyuFF+kDFsG7PktTMlw%3D%3D*1gGSCDKkOHEHwri3aXezlQ%3D%3D*zz71kJ3vGPvlEybLo19PTQ%3D%3D HTTP/1.1[0m" 400 -
+INFO 2022-06-15 16:22:08,826 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:22:08,894 ::  * Restarting with stat
+WARNING 2022-06-15 16:22:09,357 ::  * Debugger is active!
+INFO 2022-06-15 16:22:09,358 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:22:16,415 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:22:16,477 ::  * Restarting with stat
+WARNING 2022-06-15 16:22:16,821 ::  * Debugger is active!
+INFO 2022-06-15 16:22:16,822 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:23:13,191 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:23:13,248 ::  * Restarting with stat
+WARNING 2022-06-15 16:23:13,589 ::  * Debugger is active!
+INFO 2022-06-15 16:23:13,590 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:23:17,277 :: 127.0.0.1 - - [15/Jun/2022 16:23:17] "POST /verify-email?token=6gfm4/PwETugIjEkSkaE9400wcsnrsWKv2S8V4qXpMEOT4k%3D*jQHUyuFF+kDFsG7PktTMlw%3D%3D*1gGSCDKkOHEHwri3aXezlQ%3D%3D*zz71kJ3vGPvlEybLo19PTQ%3D%3D HTTP/1.1" 200 -
+INFO 2022-06-15 16:25:13,146 :: 127.0.0.1 - - [15/Jun/2022 16:25:13] "[31m[1mPOST /upload-doc HTTP/1.1[0m" 400 -
+INFO 2022-06-15 16:26:12,736 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 16:26:12,794 ::  * Restarting with stat
+WARNING 2022-06-15 16:26:13,110 ::  * Debugger is active!
+INFO 2022-06-15 16:26:13,110 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:26:33,251 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 16:26:33,310 ::  * Restarting with stat
+WARNING 2022-06-15 16:26:33,664 ::  * Debugger is active!
+INFO 2022-06-15 16:26:33,664 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:27:29,016 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 16:27:29,085 ::  * Restarting with stat
+WARNING 2022-06-15 16:27:29,418 ::  * Debugger is active!
+INFO 2022-06-15 16:27:29,418 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:27:30,905 :: 127.0.0.1 - - [15/Jun/2022 16:27:30] "[31m[1mPOST /upload-doc HTTP/1.1[0m" 400 -
+INFO 2022-06-15 16:28:25,089 :: 127.0.0.1 - - [15/Jun/2022 16:28:25] "[31m[1mPOST /upload-doc HTTP/1.1[0m" 400 -
+INFO 2022-06-15 16:28:40,865 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:28:40,924 ::  * Restarting with stat
+WARNING 2022-06-15 16:28:41,261 ::  * Debugger is active!
+INFO 2022-06-15 16:28:41,261 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:28:42,675 :: 127.0.0.1 - - [15/Jun/2022 16:28:42] "[31m[1mPOST /upload-doc HTTP/1.1[0m" 400 -
+INFO 2022-06-15 16:29:16,372 :: 127.0.0.1 - - [15/Jun/2022 16:29:16] "[31m[1mPOST /upload-doc HTTP/1.1[0m" 400 -
+INFO 2022-06-15 16:29:26,162 :: 127.0.0.1 - - [15/Jun/2022 16:29:26] "[31m[1mPOST /upload-doc HTTP/1.1[0m" 400 -
+INFO 2022-06-15 16:29:43,085 :: 127.0.0.1 - - [15/Jun/2022 16:29:43] "[31m[1mPOST /upload-doc HTTP/1.1[0m" 400 -
+INFO 2022-06-15 16:29:59,797 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:29:59,883 ::  * Restarting with stat
+WARNING 2022-06-15 16:30:00,245 ::  * Debugger is active!
+INFO 2022-06-15 16:30:00,246 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:30:02,031 :: 127.0.0.1 - - [15/Jun/2022 16:30:02] "[31m[1mPOST /upload-doc HTTP/1.1[0m" 400 -
+INFO 2022-06-15 16:30:07,305 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:30:07,368 ::  * Restarting with stat
+WARNING 2022-06-15 16:30:07,787 ::  * Debugger is active!
+INFO 2022-06-15 16:30:07,787 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:31:01,146 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:31:01,222 ::  * Restarting with stat
+WARNING 2022-06-15 16:31:01,598 ::  * Debugger is active!
+INFO 2022-06-15 16:31:01,599 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:31:07,290 :: 127.0.0.1 - - [15/Jun/2022 16:31:07] "[31m[1mPOST /upload-doc HTTP/1.1[0m" 400 -
+INFO 2022-06-15 16:32:08,042 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:32:08,114 ::  * Restarting with stat
+WARNING 2022-06-15 16:32:08,505 ::  * Debugger is active!
+INFO 2022-06-15 16:32:08,505 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:32:15,557 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:32:15,621 ::  * Restarting with stat
+WARNING 2022-06-15 16:32:15,944 ::  * Debugger is active!
+INFO 2022-06-15 16:32:15,945 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:32:45,142 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:32:45,202 ::  * Restarting with stat
+WARNING 2022-06-15 16:32:45,588 ::  * Debugger is active!
+INFO 2022-06-15 16:32:45,588 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:33:42,976 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:33:43,042 ::  * Restarting with stat
+WARNING 2022-06-15 16:33:43,366 ::  * Debugger is active!
+INFO 2022-06-15 16:33:43,367 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:33:55,451 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:33:55,518 ::  * Restarting with stat
+WARNING 2022-06-15 16:33:55,896 ::  * Debugger is active!
+INFO 2022-06-15 16:33:55,897 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:34:03,957 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:34:04,042 ::  * Restarting with stat
+WARNING 2022-06-15 16:34:04,353 ::  * Debugger is active!
+INFO 2022-06-15 16:34:04,354 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:34:06,979 :: 127.0.0.1 - - [15/Jun/2022 16:34:06] "[31m[1mPOST /upload-doc HTTP/1.1[0m" 400 -
+INFO 2022-06-15 16:34:33,556 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:34:33,616 ::  * Restarting with stat
+WARNING 2022-06-15 16:34:34,005 ::  * Debugger is active!
+INFO 2022-06-15 16:34:34,005 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:34:35,033 :: 127.0.0.1 - - [15/Jun/2022 16:34:35] "[31m[1mPOST /upload-doc HTTP/1.1[0m" 400 -
+INFO 2022-06-15 16:34:59,173 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:34:59,241 ::  * Restarting with stat
+WARNING 2022-06-15 16:34:59,603 ::  * Debugger is active!
+INFO 2022-06-15 16:34:59,603 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:35:15,711 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:35:15,767 ::  * Restarting with stat
+WARNING 2022-06-15 16:35:16,081 ::  * Debugger is active!
+INFO 2022-06-15 16:35:16,081 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:35:24,138 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:35:24,201 ::  * Restarting with stat
+WARNING 2022-06-15 16:35:24,546 ::  * Debugger is active!
+INFO 2022-06-15 16:35:24,546 ::  * Debugger PIN: 521-737-442
+INFO 2022-06-15 16:35:33,613 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:35:33,676 ::  * Restarting with stat
+INFO 2022-06-15 16:38:32,412 ::  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2022-06-15 16:38:32,413 ::  * Restarting with stat
+WARNING 2022-06-15 16:38:32,707 ::  * Debugger is active!
+INFO 2022-06-15 16:38:32,707 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:38:35,421 :: 127.0.0.1 - - [15/Jun/2022 16:38:35] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 16:38:40,772 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:38:40,824 ::  * Restarting with stat
+WARNING 2022-06-15 16:38:41,177 ::  * Debugger is active!
+INFO 2022-06-15 16:38:41,178 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:38:42,372 :: 127.0.0.1 - - [15/Jun/2022 16:38:42] "POST /upload-doc HTTP/1.1" 500 -
+INFO 2022-06-15 16:39:03,360 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:39:03,437 ::  * Restarting with stat
+WARNING 2022-06-15 16:39:03,794 ::  * Debugger is active!
+INFO 2022-06-15 16:39:03,794 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:39:39,894 :: 127.0.0.1 - - [15/Jun/2022 16:39:39] "POST /upload-doc HTTP/1.1" 500 -
+INFO 2022-06-15 16:39:44,037 :: 127.0.0.1 - - [15/Jun/2022 16:39:44] "POST /upload-doc HTTP/1.1" 500 -
+INFO 2022-06-15 16:40:28,462 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 16:40:28,530 ::  * Restarting with stat
+WARNING 2022-06-15 16:40:28,881 ::  * Debugger is active!
+INFO 2022-06-15 16:40:28,882 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:40:30,544 :: 127.0.0.1 - - [15/Jun/2022 16:40:30] "POST /upload-doc HTTP/1.1" 500 -
+INFO 2022-06-15 16:41:32,394 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 16:41:32,448 ::  * Restarting with stat
+WARNING 2022-06-15 16:41:32,834 ::  * Debugger is active!
+INFO 2022-06-15 16:41:32,835 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:41:33,914 :: 127.0.0.1 - - [15/Jun/2022 16:41:33] "POST /upload-doc HTTP/1.1" 500 -
+INFO 2022-06-15 16:42:17,199 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 16:42:17,257 ::  * Restarting with stat
+WARNING 2022-06-15 16:42:17,706 ::  * Debugger is active!
+INFO 2022-06-15 16:42:17,706 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:42:18,744 :: 127.0.0.1 - - [15/Jun/2022 16:42:18] "POST /upload-doc HTTP/1.1" 500 -
+INFO 2022-06-15 16:42:27,798 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 16:42:27,870 ::  * Restarting with stat
+WARNING 2022-06-15 16:42:28,200 ::  * Debugger is active!
+INFO 2022-06-15 16:42:28,200 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:42:29,248 :: 127.0.0.1 - - [15/Jun/2022 16:42:29] "POST /upload-doc HTTP/1.1" 500 -
+INFO 2022-06-15 16:42:58,445 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:42:58,521 ::  * Restarting with stat
+WARNING 2022-06-15 16:42:58,866 ::  * Debugger is active!
+INFO 2022-06-15 16:42:58,866 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:44:11,447 ::  * Detected change in '/var/www/html/EZWORKS/core/BaseController.py', reloading
+INFO 2022-06-15 16:44:11,518 ::  * Restarting with stat
+WARNING 2022-06-15 16:44:11,855 ::  * Debugger is active!
+INFO 2022-06-15 16:44:11,856 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:44:21,939 ::  * Detected change in '/var/www/html/EZWORKS/core/BaseController.py', reloading
+INFO 2022-06-15 16:44:21,997 ::  * Restarting with stat
+WARNING 2022-06-15 16:44:22,287 ::  * Debugger is active!
+INFO 2022-06-15 16:44:22,288 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:44:51,529 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 16:44:51,582 ::  * Restarting with stat
+WARNING 2022-06-15 16:44:51,939 ::  * Debugger is active!
+INFO 2022-06-15 16:44:51,940 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:45:12,103 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 16:45:12,150 ::  * Restarting with stat
+WARNING 2022-06-15 16:45:12,464 ::  * Debugger is active!
+INFO 2022-06-15 16:45:12,464 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:45:17,504 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 16:45:17,565 ::  * Restarting with stat
+WARNING 2022-06-15 16:45:17,878 ::  * Debugger is active!
+INFO 2022-06-15 16:45:17,879 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:45:19,349 :: 127.0.0.1 - - [15/Jun/2022 16:45:19] "POST /upload-doc HTTP/1.1" 500 -
+INFO 2022-06-15 16:45:40,059 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 16:45:40,129 ::  * Restarting with stat
+WARNING 2022-06-15 16:45:40,464 ::  * Debugger is active!
+INFO 2022-06-15 16:45:40,464 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:45:43,494 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 16:45:43,552 ::  * Restarting with stat
+WARNING 2022-06-15 16:45:43,894 ::  * Debugger is active!
+INFO 2022-06-15 16:45:43,894 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:46:08,093 ::  * Detected change in '/var/www/html/EZWORKS/core/BaseController.py', reloading
+INFO 2022-06-15 16:46:08,152 ::  * Restarting with stat
+WARNING 2022-06-15 16:46:08,500 ::  * Debugger is active!
+INFO 2022-06-15 16:46:08,500 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:46:09,393 :: 127.0.0.1 - - [15/Jun/2022 16:46:09] "POST /upload-doc HTTP/1.1" 200 -
+INFO 2022-06-15 16:46:20,602 ::  * Detected change in '/var/www/html/EZWORKS/core/BaseController.py', reloading
+INFO 2022-06-15 16:46:20,653 ::  * Restarting with stat
+WARNING 2022-06-15 16:46:20,953 ::  * Debugger is active!
+INFO 2022-06-15 16:46:20,953 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:46:34,368 :: 127.0.0.1 - - [15/Jun/2022 16:46:34] "POST /upload-doc HTTP/1.1" 500 -
+INFO 2022-06-15 16:46:44,130 ::  * Detected change in '/var/www/html/EZWORKS/core/BaseController.py', reloading
+INFO 2022-06-15 16:46:44,213 ::  * Restarting with stat
+WARNING 2022-06-15 16:46:44,632 ::  * Debugger is active!
+INFO 2022-06-15 16:46:44,633 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:46:46,306 :: 127.0.0.1 - - [15/Jun/2022 16:46:46] "POST /upload-doc HTTP/1.1" 200 -
+INFO 2022-06-15 16:51:04,669 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:51:04,721 ::  * Restarting with stat
+WARNING 2022-06-15 16:51:05,054 ::  * Debugger is active!
+INFO 2022-06-15 16:51:05,054 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:51:53,449 ::  * Detected change in '/var/www/html/EZWORKS/config/config.py', reloading
+INFO 2022-06-15 16:51:53,509 ::  * Restarting with stat
+WARNING 2022-06-15 16:51:53,825 ::  * Debugger is active!
+INFO 2022-06-15 16:51:53,825 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:51:56,851 ::  * Detected change in '/var/www/html/EZWORKS/config/config.py', reloading
+INFO 2022-06-15 16:51:56,912 ::  * Restarting with stat
+WARNING 2022-06-15 16:51:57,233 ::  * Debugger is active!
+INFO 2022-06-15 16:51:57,234 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:52:00,263 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:52:00,318 ::  * Restarting with stat
+WARNING 2022-06-15 16:52:00,631 ::  * Debugger is active!
+INFO 2022-06-15 16:52:00,631 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:52:02,271 :: 127.0.0.1 - - [15/Jun/2022 16:52:02] "POST /upload-doc HTTP/1.1" 200 -
+INFO 2022-06-15 16:53:05,142 ::  * Detected change in '/var/www/html/EZWORKS/config/config.py', reloading
+INFO 2022-06-15 16:53:05,198 ::  * Restarting with stat
+WARNING 2022-06-15 16:53:05,539 ::  * Debugger is active!
+INFO 2022-06-15 16:53:05,540 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:53:07,557 :: 127.0.0.1 - - [15/Jun/2022 16:53:07] "POST /upload-doc HTTP/1.1" 200 -
+INFO 2022-06-15 16:54:44,321 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:54:44,414 ::  * Restarting with stat
+WARNING 2022-06-15 16:54:44,755 ::  * Debugger is active!
+INFO 2022-06-15 16:54:44,755 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:55:09,968 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:55:10,023 ::  * Restarting with stat
+WARNING 2022-06-15 16:55:10,341 ::  * Debugger is active!
+INFO 2022-06-15 16:55:10,342 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:55:28,480 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:55:28,560 ::  * Restarting with stat
+WARNING 2022-06-15 16:55:28,920 ::  * Debugger is active!
+INFO 2022-06-15 16:55:28,921 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:56:30,410 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:56:30,481 ::  * Restarting with stat
+WARNING 2022-06-15 16:56:30,848 ::  * Debugger is active!
+INFO 2022-06-15 16:56:30,848 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:56:45,994 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:56:46,057 ::  * Restarting with stat
+WARNING 2022-06-15 16:56:46,413 ::  * Debugger is active!
+INFO 2022-06-15 16:56:46,414 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:56:59,519 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:56:59,603 ::  * Restarting with stat
+WARNING 2022-06-15 16:56:59,983 ::  * Debugger is active!
+INFO 2022-06-15 16:56:59,983 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:57:01,091 :: 127.0.0.1 - - [15/Jun/2022 16:57:01] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 16:57:06,036 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:57:06,093 ::  * Restarting with stat
+WARNING 2022-06-15 16:57:06,372 ::  * Debugger is active!
+INFO 2022-06-15 16:57:06,373 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 16:57:09,400 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 16:57:09,471 ::  * Restarting with stat
+WARNING 2022-06-15 16:57:09,972 ::  * Debugger is active!
+INFO 2022-06-15 16:57:09,973 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:01:51,217 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:01:51,274 ::  * Restarting with stat
+WARNING 2022-06-15 17:01:51,593 ::  * Debugger is active!
+INFO 2022-06-15 17:01:51,593 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:07:01,952 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:07:02,009 ::  * Restarting with stat
+WARNING 2022-06-15 17:07:02,316 ::  * Debugger is active!
+INFO 2022-06-15 17:07:02,317 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:07:16,432 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:07:16,488 ::  * Restarting with stat
+WARNING 2022-06-15 17:07:16,776 ::  * Debugger is active!
+INFO 2022-06-15 17:07:16,776 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:07:44,989 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:07:45,073 ::  * Restarting with stat
+WARNING 2022-06-15 17:07:45,414 ::  * Debugger is active!
+INFO 2022-06-15 17:07:45,415 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:07:50,269 :: 127.0.0.1 - - [15/Jun/2022 17:07:50] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 17:10:21,651 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:10:21,708 ::  * Restarting with stat
+INFO 2022-06-15 17:11:25,061 ::  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2022-06-15 17:11:25,062 ::  * Restarting with stat
+WARNING 2022-06-15 17:11:25,389 ::  * Debugger is active!
+INFO 2022-06-15 17:11:25,390 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:11:28,088 :: 127.0.0.1 - - [15/Jun/2022 17:11:28] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 17:11:37,334 ::  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2022-06-15 17:11:37,336 ::  * Restarting with stat
+WARNING 2022-06-15 17:11:37,645 ::  * Debugger is active!
+INFO 2022-06-15 17:11:37,645 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:11:39,444 :: 127.0.0.1 - - [15/Jun/2022 17:11:39] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 17:11:54,786 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:11:54,853 ::  * Restarting with stat
+WARNING 2022-06-15 17:11:55,166 ::  * Debugger is active!
+INFO 2022-06-15 17:11:55,166 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:11:55,999 :: 127.0.0.1 - - [15/Jun/2022 17:11:55] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 17:13:44,994 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:13:45,048 ::  * Restarting with stat
+WARNING 2022-06-15 17:13:45,342 ::  * Debugger is active!
+INFO 2022-06-15 17:13:45,343 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:14:04,494 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:14:04,555 ::  * Restarting with stat
+WARNING 2022-06-15 17:14:04,871 ::  * Debugger is active!
+INFO 2022-06-15 17:14:04,871 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:14:08,897 :: 127.0.0.1 - - [15/Jun/2022 17:14:08] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 17:14:55,253 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:14:55,310 ::  * Restarting with stat
+WARNING 2022-06-15 17:14:55,644 ::  * Debugger is active!
+INFO 2022-06-15 17:14:55,645 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:14:58,410 :: 127.0.0.1 - - [15/Jun/2022 17:14:58] "POST /upload-doc HTTP/1.1" 200 -
+INFO 2022-06-15 17:15:20,834 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:15:20,885 ::  * Restarting with stat
+WARNING 2022-06-15 17:15:21,255 ::  * Debugger is active!
+INFO 2022-06-15 17:15:21,255 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:15:23,717 :: 127.0.0.1 - - [15/Jun/2022 17:15:23] "POST /upload-doc HTTP/1.1" 200 -
+INFO 2022-06-15 17:16:23,731 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:16:23,800 ::  * Restarting with stat
+WARNING 2022-06-15 17:16:24,085 ::  * Debugger is active!
+INFO 2022-06-15 17:16:24,085 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:16:41,213 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:16:41,269 ::  * Restarting with stat
+WARNING 2022-06-15 17:16:41,643 ::  * Debugger is active!
+INFO 2022-06-15 17:16:41,644 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:17:00,781 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:17:00,851 ::  * Restarting with stat
+WARNING 2022-06-15 17:17:01,140 ::  * Debugger is active!
+INFO 2022-06-15 17:17:01,140 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:17:04,778 :: 127.0.0.1 - - [15/Jun/2022 17:17:04] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 17:17:10,206 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:17:10,262 ::  * Restarting with stat
+WARNING 2022-06-15 17:17:10,620 ::  * Debugger is active!
+INFO 2022-06-15 17:17:10,621 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:17:12,548 :: 127.0.0.1 - - [15/Jun/2022 17:17:12] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 17:18:03,032 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:18:03,102 ::  * Restarting with stat
+WARNING 2022-06-15 17:18:03,477 ::  * Debugger is active!
+INFO 2022-06-15 17:18:03,477 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:18:04,689 :: 127.0.0.1 - - [15/Jun/2022 17:18:04] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 17:18:29,683 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:18:29,736 ::  * Restarting with stat
+WARNING 2022-06-15 17:18:30,030 ::  * Debugger is active!
+INFO 2022-06-15 17:18:30,030 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:18:34,546 :: 127.0.0.1 - - [15/Jun/2022 17:18:34] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 17:18:53,204 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:18:53,264 ::  * Restarting with stat
+WARNING 2022-06-15 17:18:53,579 ::  * Debugger is active!
+INFO 2022-06-15 17:18:53,579 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:18:55,040 :: 127.0.0.1 - - [15/Jun/2022 17:18:55] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 17:18:59,637 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:18:59,686 ::  * Restarting with stat
+WARNING 2022-06-15 17:18:59,995 ::  * Debugger is active!
+INFO 2022-06-15 17:18:59,995 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:21:09,948 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:21:10,012 ::  * Restarting with stat
+WARNING 2022-06-15 17:21:10,313 ::  * Debugger is active!
+INFO 2022-06-15 17:21:10,313 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:21:29,458 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:21:29,513 ::  * Restarting with stat
+WARNING 2022-06-15 17:21:29,876 ::  * Debugger is active!
+INFO 2022-06-15 17:21:29,876 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:21:59,104 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:21:59,161 ::  * Restarting with stat
+WARNING 2022-06-15 17:21:59,499 ::  * Debugger is active!
+INFO 2022-06-15 17:21:59,500 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:22:01,965 :: 127.0.0.1 - - [15/Jun/2022 17:22:01] "POST /upload-doc HTTP/1.1" 200 -
+INFO 2022-06-15 17:22:18,651 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:22:18,705 ::  * Restarting with stat
+WARNING 2022-06-15 17:22:19,005 ::  * Debugger is active!
+INFO 2022-06-15 17:22:19,006 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:22:26,067 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:22:26,118 ::  * Restarting with stat
+WARNING 2022-06-15 17:22:26,380 ::  * Debugger is active!
+INFO 2022-06-15 17:22:26,381 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:23:29,889 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:23:29,940 ::  * Restarting with stat
+INFO 2022-06-15 17:24:04,379 ::  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2022-06-15 17:24:04,379 ::  * Restarting with stat
+WARNING 2022-06-15 17:24:04,662 ::  * Debugger is active!
+INFO 2022-06-15 17:24:04,662 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:24:07,875 :: 127.0.0.1 - - [15/Jun/2022 17:24:07] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 17:24:21,804 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:24:21,865 ::  * Restarting with stat
+WARNING 2022-06-15 17:24:22,188 ::  * Debugger is active!
+INFO 2022-06-15 17:24:22,189 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:24:23,695 :: 127.0.0.1 - - [15/Jun/2022 17:24:23] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 17:24:50,400 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:24:50,462 ::  * Restarting with stat
+WARNING 2022-06-15 17:24:50,779 ::  * Debugger is active!
+INFO 2022-06-15 17:24:50,780 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:24:53,073 :: 127.0.0.1 - - [15/Jun/2022 17:24:53] "POST /upload-doc HTTP/1.1" 200 -
+INFO 2022-06-15 17:25:07,645 :: 127.0.0.1 - - [15/Jun/2022 17:25:07] "POST /upload-doc HTTP/1.1" 200 -
+INFO 2022-06-15 17:25:27,062 ::  * Detected change in '/var/www/html/EZWORKS/config/config.py', reloading
+INFO 2022-06-15 17:25:27,122 ::  * Restarting with stat
+WARNING 2022-06-15 17:25:27,469 ::  * Debugger is active!
+INFO 2022-06-15 17:25:27,470 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:25:28,643 :: 127.0.0.1 - - [15/Jun/2022 17:25:28] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 17:26:01,726 ::  * Detected change in '/var/www/html/EZWORKS/config/config.py', reloading
+INFO 2022-06-15 17:26:01,776 ::  * Restarting with stat
+WARNING 2022-06-15 17:26:02,101 ::  * Debugger is active!
+INFO 2022-06-15 17:26:02,102 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:26:03,690 :: 127.0.0.1 - - [15/Jun/2022 17:26:03] "POST /upload-doc HTTP/1.1" 200 -
+INFO 2022-06-15 17:26:17,129 :: 127.0.0.1 - - [15/Jun/2022 17:26:17] "POST /upload-doc HTTP/1.1" 200 -
+INFO 2022-06-15 17:27:35,819 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:27:35,871 ::  * Restarting with stat
+INFO 2022-06-15 17:27:44,414 ::  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2022-06-15 17:27:44,414 ::  * Restarting with stat
+WARNING 2022-06-15 17:27:44,726 ::  * Debugger is active!
+INFO 2022-06-15 17:27:44,727 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:27:46,679 :: 127.0.0.1 - - [15/Jun/2022 17:27:46] "POST /upload-doc HTTP/1.1" 200 -
+INFO 2022-06-15 17:28:13,932 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:28:14,008 ::  * Restarting with stat
+WARNING 2022-06-15 17:28:14,331 ::  * Debugger is active!
+INFO 2022-06-15 17:28:14,331 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:28:17,362 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:28:17,444 ::  * Restarting with stat
+WARNING 2022-06-15 17:28:17,860 ::  * Debugger is active!
+INFO 2022-06-15 17:28:17,860 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:28:22,546 :: 127.0.0.1 - - [15/Jun/2022 17:28:22] "POST /upload-doc HTTP/1.1" 200 -
+INFO 2022-06-15 17:28:58,161 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:28:58,230 ::  * Restarting with stat
+WARNING 2022-06-15 17:28:58,657 ::  * Debugger is active!
+INFO 2022-06-15 17:28:58,657 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:29:01,799 :: 127.0.0.1 - - [15/Jun/2022 17:29:01] "POST /upload-doc HTTP/1.1" 200 -
+INFO 2022-06-15 17:29:29,899 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:29:29,956 ::  * Restarting with stat
+INFO 2022-06-15 17:29:39,647 ::  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2022-06-15 17:29:39,647 ::  * Restarting with stat
+WARNING 2022-06-15 17:29:39,960 ::  * Debugger is active!
+INFO 2022-06-15 17:29:39,961 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:29:41,472 :: 127.0.0.1 - - [15/Jun/2022 17:29:41] "POST /upload-doc HTTP/1.1" 200 -
+INFO 2022-06-15 17:30:02,134 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:30:02,199 ::  * Restarting with stat
+WARNING 2022-06-15 17:30:02,525 ::  * Debugger is active!
+INFO 2022-06-15 17:30:02,525 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:30:03,896 :: 127.0.0.1 - - [15/Jun/2022 17:30:03] "POST /upload-doc HTTP/1.1" 200 -
+INFO 2022-06-15 17:30:19,662 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:30:19,722 ::  * Restarting with stat
+WARNING 2022-06-15 17:30:20,171 ::  * Debugger is active!
+INFO 2022-06-15 17:30:20,171 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:30:37,308 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:30:37,374 ::  * Restarting with stat
+WARNING 2022-06-15 17:30:37,688 ::  * Debugger is active!
+INFO 2022-06-15 17:30:37,688 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:31:00,857 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:31:00,911 ::  * Restarting with stat
+WARNING 2022-06-15 17:31:01,219 ::  * Debugger is active!
+INFO 2022-06-15 17:31:01,219 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:31:07,270 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:31:07,331 ::  * Restarting with stat
+WARNING 2022-06-15 17:31:07,667 ::  * Debugger is active!
+INFO 2022-06-15 17:31:07,668 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:31:21,779 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:31:21,842 ::  * Restarting with stat
+WARNING 2022-06-15 17:31:22,146 ::  * Debugger is active!
+INFO 2022-06-15 17:31:22,147 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:33:32,160 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:33:32,226 ::  * Restarting with stat
+WARNING 2022-06-15 17:33:32,532 ::  * Debugger is active!
+INFO 2022-06-15 17:33:32,532 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:36:55,088 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:36:55,145 ::  * Restarting with stat
+WARNING 2022-06-15 17:36:55,534 ::  * Debugger is active!
+INFO 2022-06-15 17:36:55,535 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:37:08,644 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:37:08,703 ::  * Restarting with stat
+WARNING 2022-06-15 17:37:09,042 ::  * Debugger is active!
+INFO 2022-06-15 17:37:09,043 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:37:21,141 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:37:21,201 ::  * Restarting with stat
+WARNING 2022-06-15 17:37:21,504 ::  * Debugger is active!
+INFO 2022-06-15 17:37:21,504 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:37:42,665 ::  * Detected change in '/var/www/html/EZWORKS/config/config.py', reloading
+INFO 2022-06-15 17:37:42,762 ::  * Restarting with stat
+WARNING 2022-06-15 17:37:43,171 ::  * Debugger is active!
+INFO 2022-06-15 17:37:43,171 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:37:46,975 :: 127.0.0.1 - - [15/Jun/2022 17:37:46] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 17:37:53,252 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:37:53,328 ::  * Restarting with stat
+WARNING 2022-06-15 17:37:53,756 ::  * Debugger is active!
+INFO 2022-06-15 17:37:53,757 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:37:55,250 :: 127.0.0.1 - - [15/Jun/2022 17:37:55] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 17:38:12,914 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:38:12,967 ::  * Restarting with stat
+WARNING 2022-06-15 17:38:13,257 ::  * Debugger is active!
+INFO 2022-06-15 17:38:13,257 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:38:40,460 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:38:40,544 ::  * Restarting with stat
+WARNING 2022-06-15 17:38:40,895 ::  * Debugger is active!
+INFO 2022-06-15 17:38:40,896 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:38:46,947 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:38:46,997 ::  * Restarting with stat
+WARNING 2022-06-15 17:38:47,285 ::  * Debugger is active!
+INFO 2022-06-15 17:38:47,286 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:39:22,561 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:39:22,620 ::  * Restarting with stat
+WARNING 2022-06-15 17:39:22,930 ::  * Debugger is active!
+INFO 2022-06-15 17:39:22,930 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:39:32,002 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:39:32,067 ::  * Restarting with stat
+WARNING 2022-06-15 17:39:32,414 ::  * Debugger is active!
+INFO 2022-06-15 17:39:32,414 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:39:32,968 :: 127.0.0.1 - - [15/Jun/2022 17:39:32] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 17:39:43,502 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:39:43,571 ::  * Restarting with stat
+WARNING 2022-06-15 17:39:43,896 ::  * Debugger is active!
+INFO 2022-06-15 17:39:43,896 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:39:46,934 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:39:46,994 ::  * Restarting with stat
+WARNING 2022-06-15 17:39:47,324 ::  * Debugger is active!
+INFO 2022-06-15 17:39:47,325 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:40:08,493 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:40:08,573 ::  * Restarting with stat
+WARNING 2022-06-15 17:40:08,925 ::  * Debugger is active!
+INFO 2022-06-15 17:40:08,926 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:40:19,012 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:40:19,068 ::  * Restarting with stat
+WARNING 2022-06-15 17:40:19,443 ::  * Debugger is active!
+INFO 2022-06-15 17:40:19,444 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:40:32,546 ::  * Detected change in '/var/www/html/EZWORKS/config/config.py', reloading
+INFO 2022-06-15 17:40:32,610 ::  * Restarting with stat
+WARNING 2022-06-15 17:40:32,941 ::  * Debugger is active!
+INFO 2022-06-15 17:40:32,942 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:40:38,066 :: 127.0.0.1 - - [15/Jun/2022 17:40:38] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 17:40:44,037 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:40:44,100 ::  * Restarting with stat
+WARNING 2022-06-15 17:40:44,454 ::  * Debugger is active!
+INFO 2022-06-15 17:40:44,454 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:40:44,925 :: 127.0.0.1 - - [15/Jun/2022 17:40:44] "POST /upload-doc HTTP/1.1" 200 -
+INFO 2022-06-15 17:40:51,510 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:40:51,575 ::  * Restarting with stat
+WARNING 2022-06-15 17:40:51,987 ::  * Debugger is active!
+INFO 2022-06-15 17:40:51,988 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:41:16,168 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:41:16,230 ::  * Restarting with stat
+WARNING 2022-06-15 17:41:16,633 ::  * Debugger is active!
+INFO 2022-06-15 17:41:16,634 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:41:20,675 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:41:20,729 ::  * Restarting with stat
+WARNING 2022-06-15 17:41:21,032 ::  * Debugger is active!
+INFO 2022-06-15 17:41:21,033 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:41:23,057 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:41:23,125 ::  * Restarting with stat
+WARNING 2022-06-15 17:41:23,430 ::  * Debugger is active!
+INFO 2022-06-15 17:41:23,430 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:41:33,093 :: 127.0.0.1 - - [15/Jun/2022 17:41:33] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 17:41:40,424 :: 127.0.0.1 - - [15/Jun/2022 17:41:40] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 17:45:53,483 ::  * Detected change in '/var/www/html/EZWORKS/Models/UserModel.py', reloading
+INFO 2022-06-15 17:45:53,543 ::  * Restarting with stat
+WARNING 2022-06-15 17:45:53,857 ::  * Debugger is active!
+INFO 2022-06-15 17:45:53,857 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:46:23,090 ::  * Detected change in '/var/www/html/EZWORKS/Models/UserModel.py', reloading
+INFO 2022-06-15 17:46:23,166 ::  * Restarting with stat
+WARNING 2022-06-15 17:46:23,456 ::  * Debugger is active!
+INFO 2022-06-15 17:46:23,457 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:46:42,622 ::  * Detected change in '/var/www/html/EZWORKS/Models/UserModel.py', reloading
+INFO 2022-06-15 17:46:42,692 ::  * Restarting with stat
+WARNING 2022-06-15 17:46:43,011 ::  * Debugger is active!
+INFO 2022-06-15 17:46:43,011 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:47:37,423 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:47:37,501 ::  * Restarting with stat
+WARNING 2022-06-15 17:47:37,881 ::  * Debugger is active!
+INFO 2022-06-15 17:47:37,881 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:48:11,148 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:48:11,205 ::  * Restarting with stat
+WARNING 2022-06-15 17:48:11,534 ::  * Debugger is active!
+INFO 2022-06-15 17:48:11,535 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:48:29,671 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 17:48:29,726 ::  * Restarting with stat
+WARNING 2022-06-15 17:48:30,033 ::  * Debugger is active!
+INFO 2022-06-15 17:48:30,033 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:48:32,525 :: 127.0.0.1 - - [15/Jun/2022 17:48:32] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 17:48:38,098 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:48:38,164 ::  * Restarting with stat
+WARNING 2022-06-15 17:48:38,614 ::  * Debugger is active!
+INFO 2022-06-15 17:48:38,614 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:48:39,037 :: 127.0.0.1 - - [15/Jun/2022 17:48:39] "POST /upload-doc HTTP/1.1" 200 -
+INFO 2022-06-15 17:49:09,843 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:49:09,909 ::  * Restarting with stat
+WARNING 2022-06-15 17:49:10,290 ::  * Debugger is active!
+INFO 2022-06-15 17:49:10,290 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:49:22,388 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:49:22,441 ::  * Restarting with stat
+WARNING 2022-06-15 17:49:22,818 ::  * Debugger is active!
+INFO 2022-06-15 17:49:22,819 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:49:24,357 :: 127.0.0.1 - - [15/Jun/2022 17:49:24] "POST /upload-doc HTTP/1.1" 200 -
+INFO 2022-06-15 17:51:40,855 ::  * Detected change in '/var/www/html/EZWORKS/config/Routes.py', reloading
+INFO 2022-06-15 17:51:40,910 ::  * Restarting with stat
+WARNING 2022-06-15 17:51:41,224 ::  * Debugger is active!
+INFO 2022-06-15 17:51:41,224 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:52:06,424 ::  * Detected change in '/var/www/html/EZWORKS/config/Routes.py', reloading
+INFO 2022-06-15 17:52:06,492 ::  * Restarting with stat
+WARNING 2022-06-15 17:52:06,842 ::  * Debugger is active!
+INFO 2022-06-15 17:52:06,843 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:53:16,380 ::  * Detected change in '/var/www/html/EZWORKS/config/Routes.py', reloading
+INFO 2022-06-15 17:53:16,443 ::  * Restarting with stat
+WARNING 2022-06-15 17:53:16,771 ::  * Debugger is active!
+INFO 2022-06-15 17:53:16,772 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:58:18,161 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 17:58:18,246 ::  * Restarting with stat
+WARNING 2022-06-15 17:58:18,573 ::  * Debugger is active!
+INFO 2022-06-15 17:58:18,573 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:58:27,650 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 17:58:27,707 ::  * Restarting with stat
+WARNING 2022-06-15 17:58:28,041 ::  * Debugger is active!
+INFO 2022-06-15 17:58:28,042 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 17:58:52,254 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 17:58:52,321 ::  * Restarting with stat
+INFO 2022-06-15 18:10:27,746 ::  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2022-06-15 18:10:27,747 ::  * Restarting with stat
+WARNING 2022-06-15 18:10:28,108 ::  * Debugger is active!
+INFO 2022-06-15 18:10:28,109 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 18:10:29,726 :: 127.0.0.1 - - [15/Jun/2022 18:10:29] "POST /download-file/1 HTTP/1.1" 500 -
+INFO 2022-06-15 18:11:10,477 ::  * Detected change in '/var/www/html/EZWORKS/config/Routes.py', reloading
+INFO 2022-06-15 18:11:10,539 ::  * Restarting with stat
+INFO 2022-06-15 18:11:20,832 ::  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2022-06-15 18:11:20,833 ::  * Restarting with stat
+WARNING 2022-06-15 18:11:21,152 ::  * Debugger is active!
+INFO 2022-06-15 18:11:21,153 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 18:11:23,097 :: 127.0.0.1 - - [15/Jun/2022 18:11:23] "POST /download-file/1 HTTP/1.1" 500 -
+INFO 2022-06-15 18:11:37,287 ::  * Detected change in '/var/www/html/EZWORKS/config/Routes.py', reloading
+INFO 2022-06-15 18:11:37,369 ::  * Restarting with stat
+WARNING 2022-06-15 18:11:37,738 ::  * Debugger is active!
+INFO 2022-06-15 18:11:37,739 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 18:11:39,006 :: 127.0.0.1 - - [15/Jun/2022 18:11:39] "POST /download-file/1 HTTP/1.1" 400 -
+INFO 2022-06-15 18:12:49,318 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 18:12:49,382 ::  * Restarting with stat
+WARNING 2022-06-15 18:12:49,759 ::  * Debugger is active!
+INFO 2022-06-15 18:12:49,759 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 18:12:53,492 :: 127.0.0.1 - - [15/Jun/2022 18:12:53] "POST /download-file/1 HTTP/1.1" 400 -
+INFO 2022-06-15 18:14:55,785 ::  * Detected change in '/var/www/html/EZWORKS/Models/UserModel.py', reloading
+INFO 2022-06-15 18:14:55,841 ::  * Restarting with stat
+WARNING 2022-06-15 18:14:56,332 ::  * Debugger is active!
+INFO 2022-06-15 18:14:56,333 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 18:14:58,355 ::  * Detected change in '/var/www/html/EZWORKS/Models/UserModel.py', reloading
+INFO 2022-06-15 18:14:58,415 ::  * Restarting with stat
+WARNING 2022-06-15 18:14:58,870 ::  * Debugger is active!
+INFO 2022-06-15 18:14:58,870 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 18:15:38,181 ::  * Detected change in '/var/www/html/EZWORKS/Models/UserModel.py', reloading
+INFO 2022-06-15 18:15:38,240 ::  * Restarting with stat
+WARNING 2022-06-15 18:15:38,647 ::  * Debugger is active!
+INFO 2022-06-15 18:15:38,648 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 18:16:42,189 :: 127.0.0.1 - - [15/Jun/2022 18:16:42] "POST /download-file/1 HTTP/1.1" 400 -
+INFO 2022-06-15 18:16:57,274 ::  * Detected change in '/var/www/html/EZWORKS/Models/UserModel.py', reloading
+INFO 2022-06-15 18:16:57,350 ::  * Restarting with stat
+WARNING 2022-06-15 18:16:57,754 ::  * Debugger is active!
+INFO 2022-06-15 18:16:57,755 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 18:16:59,777 ::  * Detected change in '/var/www/html/EZWORKS/Models/UserModel.py', reloading
+INFO 2022-06-15 18:16:59,841 ::  * Restarting with stat
+WARNING 2022-06-15 18:17:00,232 ::  * Debugger is active!
+INFO 2022-06-15 18:17:00,232 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 18:17:12,337 ::  * Detected change in '/var/www/html/EZWORKS/Models/UserModel.py', reloading
+INFO 2022-06-15 18:17:12,408 ::  * Restarting with stat
+WARNING 2022-06-15 18:17:12,849 ::  * Debugger is active!
+INFO 2022-06-15 18:17:12,849 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 18:17:20,922 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 18:17:21,006 ::  * Restarting with stat
+WARNING 2022-06-15 18:17:21,551 ::  * Debugger is active!
+INFO 2022-06-15 18:17:21,552 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 18:17:36,683 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 18:17:36,752 ::  * Restarting with stat
+WARNING 2022-06-15 18:17:37,211 ::  * Debugger is active!
+INFO 2022-06-15 18:17:37,211 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 18:17:44,405 :: 127.0.0.1 - - [15/Jun/2022 18:17:44] "POST /download-file/1 HTTP/1.1" 400 -
+INFO 2022-06-15 18:18:22,570 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 18:18:22,650 ::  * Restarting with stat
+WARNING 2022-06-15 18:18:23,079 ::  * Debugger is active!
+INFO 2022-06-15 18:18:23,080 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 18:18:39,212 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 18:18:39,296 ::  * Restarting with stat
+WARNING 2022-06-15 18:18:39,722 ::  * Debugger is active!
+INFO 2022-06-15 18:18:39,723 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 18:18:41,073 :: 127.0.0.1 - - [15/Jun/2022 18:18:41] "POST /download-file/1 HTTP/1.1" 200 -
+INFO 2022-06-15 18:23:33,273 :: 127.0.0.1 - - [15/Jun/2022 18:23:33] "POST /download-file/1 HTTP/1.1" 200 -
+INFO 2022-06-15 19:44:19,311 :: 127.0.0.1 - - [15/Jun/2022 19:44:19] "POST /download-file/1 HTTP/1.1" 200 -
+INFO 2022-06-15 19:44:26,841 :: 127.0.0.1 - - [15/Jun/2022 19:44:26] "POST /download-file/1 HTTP/1.1" 200 -
+INFO 2022-06-15 20:52:33,753 ::  * Detected change in '/var/www/html/EZWORKS/core/BaseController.py', reloading
+INFO 2022-06-15 20:52:33,890 ::  * Restarting with stat
+WARNING 2022-06-15 20:52:34,538 ::  * Debugger is active!
+INFO 2022-06-15 20:52:34,539 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 20:52:57,733 ::  * Detected change in '/var/www/html/EZWORKS/core/BaseController.py', reloading
+INFO 2022-06-15 20:52:57,827 ::  * Restarting with stat
+WARNING 2022-06-15 20:52:58,280 ::  * Debugger is active!
+INFO 2022-06-15 20:52:58,280 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 20:53:21,469 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 20:53:21,559 ::  * Restarting with stat
+WARNING 2022-06-15 20:53:22,079 ::  * Debugger is active!
+INFO 2022-06-15 20:53:22,080 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 20:53:24,861 :: 127.0.0.1 - - [15/Jun/2022 20:53:24] "POST /download-file/1 HTTP/1.1" 400 -
+INFO 2022-06-15 20:53:30,155 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 20:53:30,273 ::  * Restarting with stat
+WARNING 2022-06-15 20:53:30,800 ::  * Debugger is active!
+INFO 2022-06-15 20:53:30,801 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 20:53:51,969 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 20:53:52,070 ::  * Restarting with stat
+INFO 2022-06-15 20:56:16,561 ::  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2022-06-15 20:56:16,561 ::  * Restarting with stat
+WARNING 2022-06-15 20:56:17,023 ::  * Debugger is active!
+INFO 2022-06-15 20:56:17,024 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 20:56:18,977 :: 127.0.0.1 - - [15/Jun/2022 20:56:18] "POST /download-file/1 HTTP/1.1" 400 -
+INFO 2022-06-15 20:56:28,683 :: 127.0.0.1 - - [15/Jun/2022 20:56:28] "POST /download-file/1 HTTP/1.1" 400 -
+INFO 2022-06-15 20:57:30,624 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 20:57:30,752 ::  * Restarting with stat
+WARNING 2022-06-15 20:57:31,408 ::  * Debugger is active!
+INFO 2022-06-15 20:57:31,409 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 20:57:37,463 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 20:57:37,561 ::  * Restarting with stat
+WARNING 2022-06-15 20:57:38,045 ::  * Debugger is active!
+INFO 2022-06-15 20:57:38,046 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 20:59:52,114 ::  * Detected change in '/var/www/html/EZWORKS/Models/UserModel.py', reloading
+INFO 2022-06-15 20:59:52,230 ::  * Restarting with stat
+INFO 2022-06-15 21:01:54,331 ::  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2022-06-15 21:01:54,332 ::  * Restarting with stat
+WARNING 2022-06-15 21:01:54,770 ::  * Debugger is active!
+INFO 2022-06-15 21:01:54,771 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 21:01:56,604 :: 127.0.0.1 - - [15/Jun/2022 21:01:56] "GET /file-list HTTP/1.1" 500 -
+INFO 2022-06-15 21:02:09,892 ::  * Detected change in '/var/www/html/EZWORKS/config/Routes.py', reloading
+INFO 2022-06-15 21:02:09,986 ::  * Restarting with stat
+INFO 2022-06-15 21:02:14,494 ::  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2022-06-15 21:02:14,495 ::  * Restarting with stat
+WARNING 2022-06-15 21:02:14,982 ::  * Debugger is active!
+INFO 2022-06-15 21:02:14,983 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 21:02:18,132 :: 127.0.0.1 - - [15/Jun/2022 21:02:18] "GET /file-list HTTP/1.1" 400 -
+INFO 2022-06-15 21:02:28,097 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 21:02:28,191 ::  * Restarting with stat
+WARNING 2022-06-15 21:02:28,778 ::  * Debugger is active!
+INFO 2022-06-15 21:02:28,779 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 21:02:29,808 :: 127.0.0.1 - - [15/Jun/2022 21:02:29] "GET /file-list HTTP/1.1" 200 -
+INFO 2022-06-15 21:03:17,161 ::  * Detected change in '/var/www/html/EZWORKS/Apis/Controllers/UserController.py', reloading
+INFO 2022-06-15 21:03:17,266 ::  * Restarting with stat
+WARNING 2022-06-15 21:03:17,747 ::  * Debugger is active!
+INFO 2022-06-15 21:03:17,748 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 21:04:04,184 :: 127.0.0.1 - - [15/Jun/2022 21:04:04] "POST /login HTTP/1.1" 200 -
+INFO 2022-06-15 21:04:27,648 :: 127.0.0.1 - - [15/Jun/2022 21:04:27] "GET /file-list HTTP/1.1" 200 -
+INFO 2022-06-15 21:04:49,190 :: 127.0.0.1 - - [15/Jun/2022 21:04:49] "GET /download-file/1 HTTP/1.1" 405 -
+INFO 2022-06-15 21:04:54,056 :: 127.0.0.1 - - [15/Jun/2022 21:04:54] "POST /download-file/1 HTTP/1.1" 200 -
+INFO 2022-06-15 21:04:58,200 :: 127.0.0.1 - - [15/Jun/2022 21:04:58] "POST /download-file/2 HTTP/1.1" 400 -
+INFO 2022-06-15 21:05:04,893 :: 127.0.0.1 - - [15/Jun/2022 21:05:04] "POST /download-file/1 HTTP/1.1" 200 -
+INFO 2022-06-15 21:07:52,229 :: 127.0.0.1 - - [15/Jun/2022 21:07:52] "POST /login HTTP/1.1" 200 -
+INFO 2022-06-15 21:09:47,029 :: 127.0.0.1 - - [15/Jun/2022 21:09:47] "POST /verify-email?token=6gfm4/PwETugIjEkSkaE9400wcsnrsWKv2S8V4qXpMEOT4k%3D%2AjQHUyuFF%2BkDFsG7PktTMlw%3D%3D%2A1gGSCDKkOHEHwri3aXezlQ%3D%3D%2Azz71kJ3vGPvlEybLo19PTQ%3D%3D HTTP/1.1" 400 -
+INFO 2022-06-15 21:11:57,941 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 21:11:58,073 ::  * Restarting with stat
+INFO 2022-06-15 21:12:25,977 ::  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2022-06-15 21:12:25,978 ::  * Restarting with stat
+WARNING 2022-06-15 21:12:26,436 ::  * Debugger is active!
+INFO 2022-06-15 21:12:26,437 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 21:12:28,196 :: 127.0.0.1 - - [15/Jun/2022 21:12:28] "POST /registration HTTP/1.1" 400 -
+INFO 2022-06-15 21:12:36,389 :: 127.0.0.1 - - [15/Jun/2022 21:12:36] "POST /registration HTTP/1.1" 400 -
+INFO 2022-06-15 21:12:47,569 :: 127.0.0.1 - - [15/Jun/2022 21:12:47] "POST /registration HTTP/1.1" 200 -
+INFO 2022-06-15 21:14:09,232 :: 127.0.0.1 - - [15/Jun/2022 21:14:09] "POST /upload-doc HTTP/1.1" 200 -
+INFO 2022-06-15 21:14:30,444 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 21:14:30,552 ::  * Restarting with stat
+WARNING 2022-06-15 21:14:31,099 ::  * Debugger is active!
+INFO 2022-06-15 21:14:31,101 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 21:14:36,154 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 21:14:36,241 ::  * Restarting with stat
+WARNING 2022-06-15 21:14:36,957 ::  * Debugger is active!
+INFO 2022-06-15 21:14:36,958 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 21:15:29,397 ::  * Detected change in '/var/www/html/EZWORKS/config/Routes.py', reloading
+INFO 2022-06-15 21:15:29,516 ::  * Restarting with stat
+WARNING 2022-06-15 21:15:29,990 ::  * Debugger is active!
+INFO 2022-06-15 21:15:29,990 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 21:15:44,135 :: 127.0.0.1 - - [15/Jun/2022 21:15:44] "GET /download-file/1 HTTP/1.1" 200 -
+INFO 2022-06-15 21:15:48,683 :: 127.0.0.1 - - [15/Jun/2022 21:15:48] "GET /download-file/2 HTTP/1.1" 200 -
+INFO 2022-06-15 21:16:33,255 :: 127.0.0.1 - - [15/Jun/2022 21:16:33] "GET /file-list HTTP/1.1" 200 -
+INFO 2022-06-15 21:25:07,673 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 21:25:07,768 ::  * Restarting with stat
+WARNING 2022-06-15 21:25:08,467 ::  * Debugger is active!
+INFO 2022-06-15 21:25:08,468 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 21:25:27,626 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 21:25:27,762 ::  * Restarting with stat
+WARNING 2022-06-15 21:25:28,421 ::  * Debugger is active!
+INFO 2022-06-15 21:25:28,422 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 21:25:50,605 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 21:25:50,709 ::  * Restarting with stat
+WARNING 2022-06-15 21:25:51,373 ::  * Debugger is active!
+INFO 2022-06-15 21:25:51,375 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 21:27:10,004 ::  * Detected change in '/var/www/html/EZWORKS/config/config.py', reloading
+INFO 2022-06-15 21:27:10,128 ::  * Restarting with stat
+WARNING 2022-06-15 21:27:10,604 ::  * Debugger is active!
+INFO 2022-06-15 21:27:10,605 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 21:36:24,789 ::  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2022-06-15 21:36:24,790 ::  * Restarting with stat
+WARNING 2022-06-15 21:36:25,186 ::  * Debugger is active!
+INFO 2022-06-15 21:36:25,187 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 21:36:29,114 :: 127.0.0.1 - - [15/Jun/2022 21:36:29] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 21:36:49,902 :: 127.0.0.1 - - [15/Jun/2022 21:36:49] "POST /upload-doc HTTP/1.1" 400 -
+INFO 2022-06-15 21:37:21,643 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 21:37:21,731 ::  * Restarting with stat
+WARNING 2022-06-15 21:37:22,269 ::  * Debugger is active!
+INFO 2022-06-15 21:37:22,270 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 21:37:37,393 ::  * Detected change in '/var/www/html/EZWORKS/Repositories/UserRepository.py', reloading
+INFO 2022-06-15 21:37:37,516 ::  * Restarting with stat
+WARNING 2022-06-15 21:37:38,103 ::  * Debugger is active!
+INFO 2022-06-15 21:37:38,105 ::  * Debugger PIN: 137-498-079
+INFO 2022-06-15 21:37:39,911 :: 127.0.0.1 - - [15/Jun/2022 21:37:39] "POST /upload-doc HTTP/1.1" 200 -

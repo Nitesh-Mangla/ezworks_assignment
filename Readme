@@ -1,0 +1,32 @@
+welcome to gallery search using flickr application
+ steps to start this application
+
+ step1:install python3 using sudo apt-get install python3
+ step2:create virtualenv for starting application
+      pip3 install virtualenv
+      virtualenv -p python3 env
+      python3 -m venv my_env
+ step3:Install pip3
+ step4:run to install modules (pip3 install -r ./requirements.txt), this file will install all required modules
+       for application
+ step5:Set development environment for application using `export FLASK_ENV=development`
+ step6 after followed all step mentioned above please go to the application dir and run ./server.sh
+ step7:Go to browser and hit "http://127.0.0.1:5000/" will redirect you on search bar and type anythings in search
+       and click on search button, it will redirect you on result page where you will see all images
+
+
+Suggestion for prod deployment
+--->>>>Web Server Gateway Interface (WSGI) HTTP server compatible with various web frameworks, including Flask
+
+1. change all config file like db connection , secret key redis email smtp etc.
+2. write script to install all dependencies for project like modules
+3. set env to prod before deployment
+4. all test cases should be there after and move application to maintaince mode and start all test cases
+5. give the required permission to all files
+6. for email sent purpose there must be a business account
+7. use CI/CD to deployment
+
+
+Note: before deployement to prod there should be pre prod it will be to test all cases
+
+

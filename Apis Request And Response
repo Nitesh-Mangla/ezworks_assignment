@@ -1,0 +1,170 @@
+Url
+1. login
+http://127.0.0.1:5000/login
+cUrl
+curl --location --request POST 'http://127.0.0.1:5000/login' \
+--header 'access-token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo2OCwicm9sZSI6ImNsaWVudCIsImNyZWF0ZWQtYXQiOjE2NTUzMDcyNDQxODIsImV4cGlyZS10aW1lIjoxNjU3ODk5MjQ0MTgyfQ.4AfvN6YNCm6fjmP5h1m3eeTfBd6ZmzeQThak4TTaqXU' \
+--header 'contentType: application/json' \
+--form 'email_id="niteshmangla8860@gmail.com"' \
+--form 'password="123456"'
+
+Response
+{
+    "data": {
+        "message": "Successfully login",
+        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo2OCwicm9sZSI6ImNsaWVudCIsImNyZWF0ZWQtYXQiOjE2NTUzMDc0NzIyMjgsImV4cGlyZS10aW1lIjoxNjU3ODk5NDcyMjI4fQ.GP7LgBy9GjQbCpkISbN5LkqZ5x0kVeFIXAaYBgbxooM",
+        "user_details": {
+            "address": null,
+            "created_at": "Wed, 15 Jun 2022 16:17:36 GMT",
+            "dob": "10-12-1996",
+            "email_id": "niteshmangla8860@gmail.com",
+            "fname": "vikas",
+            "full_name": "vikas mangla",
+            "gender": "Male",
+            "id": 68,
+            "ip": "127.0.0.1",
+            "is_email_verified": 1,
+            "is_phone_no_verified": 0,
+            "last_login": null,
+            "lname": "mangla",
+            "password": "123456",
+            "phone_no": "1234567890",
+            "updated_at": "Wed, 15 Jun 2022 16:17:36 GMT",
+            "user_type": "client"
+        }
+    },
+    "status": 200
+}
+
+url
+Email Verify
+http://127.0.0.1:5000/verify-email?token=6gfm4/PwETugIjEkSkaE9400wcsnrsWKv2S8V4qXpMEOT4k%3D%2AjQHUyuFF%2BkDFsG7PktTMlw%3D%3D%2A1gGSCDKkOHEHwri3aXezlQ%3D%3D%2Azz71kJ3vGPvlEybLo19PTQ%3D%3D
+
+cURL
+curl --location --request POST 'http://127.0.0.1:5000/verify-email?token=6gfm4/PwETugIjEkSkaE9400wcsnrsWKv2S8V4qXpMEOT4k%3D%2AjQHUyuFF%2BkDFsG7PktTMlw%3D%3D%2A1gGSCDKkOHEHwri3aXezlQ%3D%3D%2Azz71kJ3vGPvlEybLo19PTQ%3D%3D' \
+--header 'access-token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo2OCwicm9sZSI6ImNsaWVudCIsImNyZWF0ZWQtYXQiOjE2NTUzMDcyNDQxODIsImV4cGlyZS10aW1lIjoxNjU3ODk5MjQ0MTgyfQ.4AfvN6YNCm6fjmP5h1m3eeTfBd6ZmzeQThak4TTaqXU' \
+--header 'contentType: application/json' \
+
+{
+    "data": {
+        "error_message": "User has been already verified"
+    },
+    "status": 400
+}
+
+url
+http://127.0.0.1:5000/registration
+curl --location --request POST 'http://127.0.0.1:5000/registration' \
+--header 'access-token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo2OCwicm9sZSI6ImNsaWVudCIsImNyZWF0ZWQtYXQiOjE2NTUzMDcyNDQxODIsImV4cGlyZS10aW1lIjoxNjU3ODk5MjQ0MTgyfQ.4AfvN6YNCm6fjmP5h1m3eeTfBd6ZmzeQThak4TTaqXU' \
+--header 'contentType: application/json' \
+--form 'email_id="niteshmangla8861@gmail.com"' \
+--form 'password="123456"' \
+--form 'fname="vikas"' \
+--form 'lname="mangla"' \
+--form 'phone_no="1234567891"' \
+--form 'dob="10-12-1996"' \
+--form 'gender="male"' \
+--form 'role="ops"'
+
+{
+    "data": {
+        "message": "User is created successfully",
+        "user_details": [
+            {
+                "address": null,
+                "created_at": "Wed, 15 Jun 2022 21:12:47 GMT",
+                "dob": "10-12-1996",
+                "email_id": "niteshmangla8861@gmail.com",
+                "fname": "vikas",
+                "full_name": "vikas mangla",
+                "gender": "Male",
+                "id": 69,
+                "ip": "127.0.0.1",
+                "is_email_verified": 0,
+                "is_phone_no_verified": 0,
+                "last_login": null,
+                "lname": "mangla",
+                "password": "123456",
+                "phone_no": "1234567891",
+                "updated_at": "Wed, 15 Jun 2022 21:12:47 GMT",
+                "user_type": "ops"
+            }
+        ]
+    },
+    "status": 200
+}
+
+
+url
+http://127.0.0.1:5000/upload-doc
+
+cUrl
+curl --location --request POST 'http://127.0.0.1:5000/upload-doc' \
+--header 'access-token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo2OCwicm9sZSI6ImNsaWVudCIsImNyZWF0ZWQtYXQiOjE2NTUzMDcyNDQxODIsImV4cGlyZS10aW1lIjoxNjU3ODk5MjQ0MTgyfQ.4AfvN6YNCm6fjmP5h1m3eeTfBd6ZmzeQThak4TTaqXU' \
+--header 'contentType: application/json' \
+--form 'filename=@"/home/nitesh/Downloads/sample.pdf"'
+
+{
+    "data": {
+        "data": [
+            {
+                "created_at": "Wed, 15 Jun 2022 21:14:09 GMT",
+                "id": 2,
+                "name": "filename20220615211409223887.pdf",
+                "path": "/var/www/html/EZWORKS/medias",
+                "updated_at": "Wed, 15 Jun 2022 21:14:09 GMT"
+            }
+        ],
+        "message": "file uploaded successfully"
+    },
+    "status": 200
+}
+
+url
+http://127.0.0.1:5000/download-file/2
+
+cUrl
+curl --location --request GET 'http://127.0.0.1:5000/download-file/2' \
+--header 'access-token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo2OCwicm9sZSI6ImNsaWVudCIsImNyZWF0ZWQtYXQiOjE2NTUzMDcyNDQxODIsImV4cGlyZS10aW1lIjoxNjU3ODk5MjQ0MTgyfQ.4AfvN6YNCm6fjmP5h1m3eeTfBd6ZmzeQThak4TTaqXU' \
+--header 'contentType: application/json' \
+
+{
+    "data": {
+        "download-link": "/var/www/html/EZWORKS/medias/filename20220615211409223887.pdf",
+        "message": "Success"
+    },
+    "status": 200
+}
+
+url
+http://127.0.0.1:5000/file-list
+
+curl --location --request GET 'http://127.0.0.1:5000/file-list' \
+--header 'access-token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo2OCwicm9sZSI6ImNsaWVudCIsImNyZWF0ZWQtYXQiOjE2NTUzMDcyNDQxODIsImV4cGlyZS10aW1lIjoxNjU3ODk5MjQ0MTgyfQ.4AfvN6YNCm6fjmP5h1m3eeTfBd6ZmzeQThak4TTaqXU' \
+--header 'contentType: application/json' \
+
+{
+    "data": {
+        "data": [
+            {
+                "created_at": "Wed, 15 Jun 2022 17:49:24 GMT",
+                "id": 1,
+                "name": "filename20220615174924348114.pdf",
+                "path": "/var/www/html/EZWORKS/medias",
+                "updated_at": "Wed, 15 Jun 2022 17:49:24 GMT"
+            },
+            {
+                "created_at": "Wed, 15 Jun 2022 21:14:09 GMT",
+                "id": 2,
+                "name": "filename20220615211409223887.pdf",
+                "path": "/var/www/html/EZWORKS/medias",
+                "updated_at": "Wed, 15 Jun 2022 21:14:09 GMT"
+            }
+        ],
+        "message": "Success"
+    },
+    "status": 200
+}
+
+
+

@@ -1,0 +1,6 @@
+UNAUTHORIZED = "Unauthorized User"
+NOT_FOUND = "data not found"
+ACCESS_TOKEN = "access-token"
+JWT_GENERATE_PROBLEM = "Problem while generating jwt token"
+LOGINED_IN = "Successfully login"
+LOGIN_FAILED = "Login failed"

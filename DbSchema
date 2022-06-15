@@ -1,0 +1,29 @@
+CREATE TABLE `user_profile` (
+  `id` int unsigned NOT NULL AUTO_INCREMENT,
+  `fname` varchar(100) NOT NULL,
+  `lname` varchar(100) NOT NULL,
+  `full_name` varchar(150) NOT NULL,
+  `dob` varchar(20) NOT NULL,
+  `gender` enum('Male','Female') NOT NULL,
+  `email_id` varchar(100) NOT NULL,
+  `is_email_verified` tinyint(1) DEFAULT '0',
+  `is_phone_no_verified` tinyint(1) DEFAULT '0',
+  `created_at` datetime DEFAULT CURRENT_TIMESTAMP,
+  `updated_at` datetime DEFAULT CURRENT_TIMESTAMP,
+  `last_login` datetime DEFAULT NULL,
+  `ip` varchar(20) DEFAULT NULL,
+  `phone_no` varchar(12) DEFAULT NULL,
+  `address` text,
+  `password` varchar(100) DEFAULT NULL,
+  `user_type` enum('ops','client') DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=69 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+CREATE TABLE `media` (
+  `id` int unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(50) NOT NULL,
+  `path` varchar(100) NOT NULL,
+  `created_at` datetime DEFAULT CURRENT_TIMESTAMP,
+  `updated_at` datetime DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
